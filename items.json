@@ -28,6 +28,16 @@
             "itemImg": "https://github.com/Hubrisy/images/raw/main/7.jpg"
         },
         {
+            "itemName":"Куртка тактична",
+            "itemSalePrice":"3000",
+            "itemCurrentPrice": "1690",
+            "itemId": "211",
+            "itemDataTitle": "Куртка тактична",
+            "itemLink": "https://coat.dend.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/coat.jpg",
+            "itemStyle": "block"
+        },
+        {
             "itemName":"АСТРОНАВТ ПРОЕКТОР ЗОРЯНОГО НЕБА",
             "itemSalePrice":"1650",
             "itemCurrentPrice": "990",
