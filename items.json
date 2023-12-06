@@ -70,16 +70,6 @@
             "itemId": "199",
             "itemDataTitle": "Power Bank 30000 mAh  БІЛИЙ",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/powerwhite.jpg"
-        },
-        {
-            "itemName":"Аєрогріль",
-            "itemSalePrice":"2203",
-            "itemCurrentPrice": "1490",
-            "itemId": "201",
-            "itemDataTitle": "Аєрогріль",
-            "itemLink": "https://aerogrill.dend.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/aerogrill.jpg",
-            "itemStyle": "block"
         }
     ]
 }
