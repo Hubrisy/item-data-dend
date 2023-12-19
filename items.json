@@ -38,15 +38,6 @@
             "itemStyle": "block"
         },
         {
-            "itemName":"АСТРОНАВТ ПРОЕКТОР ЗОРЯНОГО НЕБА",
-            "itemSalePrice":"1650",
-            "itemCurrentPrice": "990",
-            "itemId": "196",
-            "itemDataTitle": "Космонавт Зоряне Небо",
-            "itemLink": "https://astro.dend.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/astro.jpg"
-        },
-        {
             "itemName":"ПОТУЖНА НІМЕЦЬКА ЕЛЕКТРОМ'ЯСОРУБКА",
             "itemSalePrice":"3370",
             "itemCurrentPrice": "2190",
@@ -54,6 +45,15 @@
             "itemDataTitle": "Grinder",
             "itemLink": "https://grinder.dend.site/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/grinder.jpg"
+        },
+        {
+            "itemName":"Кофемашина",
+            "itemSalePrice":"3300",
+            "itemCurrentPrice": "1650",
+            "itemId": "212",
+            "itemDataTitle": "Кофемашина",
+            "itemLink": "https://coffee.dend.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/ka1.jpg"
         },
         {
             "itemName":"ПОВЕРБАНК чорний",
