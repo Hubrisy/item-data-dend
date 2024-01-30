@@ -1,0 +1,62 @@
+{
+    "items":[
+        {
+            "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
+            "itemSalePrice":"1999",
+            "itemCurrentPrice": "499",
+            "itemId": "44",
+            "itemDataTitle": "ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
+            "itemLink": "https://power1.dend.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/powersun.jpg"
+        },
+        {
+            "itemName":"КОФТА ФЛІСОВА",
+            "itemSalePrice":"1600",
+            "itemCurrentPrice": "799",
+            "itemId": "171",
+            "itemDataTitle": "Флісова Кофта",
+            "itemLink": "https://sweater.dend.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/photo_5258456103082118575_y.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"ЗИМОВІ ТАКТИЧНІ РУКАВИЦІ",
+            "itemSalePrice":"1299",
+            "itemCurrentPrice": "349",
+            "itemId": "200",
+            "itemDataTitle": "Рукавиці тактичні",
+            "itemLink": "https://gloves.dend.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/7.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Автопилесос",
+            "itemSalePrice":"599",
+            "itemCurrentPrice": "299",
+            "itemId": "260",
+            "itemDataTitle": "Автопилесос",
+            "itemLink": "https://auto-vacuum.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/pilesos.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"ПОВЕРБАНК чорний",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "599",
+            "itemId": "198",
+            "itemDataTitle": "Power Bank 30000 mAh  ЧОРНИЙ",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/powerblack.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"ПОВЕРБАНК білий",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "599",
+            "itemId": "199",
+            "itemDataTitle": "Power Bank 30000 mAh  БІЛИЙ",
+            "itemLink": "undefined",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/powerwhite.jpg",
+            "itemStyle": "none"
+        }
+    ]
+}
