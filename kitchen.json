@@ -1,0 +1,60 @@
+{
+    "items":[
+        {
+            "itemName":"Стаціонарний блендер з кавомолкою та м'ясорубкою зі скляною чашею 3в1",
+            "itemSalePrice":"1999",
+            "itemCurrentPrice": "1400",
+            "itemId": "299",
+            "itemDataTitle": "Стаціонарний блендер з кавомолкою та м'ясорубкою зі скляною чашею 3в1",
+            "itemImg": "https://github.com/Hubrisy/images//raw/main/kitchen/blender1.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"Електричний блендер-подрібнювач",
+            "itemSalePrice":"899",
+            "itemCurrentPrice": "549",
+            "itemId": "300",
+            "itemDataTitle": "Електричний блендер-подрібнювач",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/kitchen/blender3.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"Блендер занурювальний 500 Вт 3в1 Чорний",
+            "itemSalePrice":"1099",
+            "itemCurrentPrice": "799",
+            "itemId": "301",
+            "itemDataTitle": "Блендер занурювальний 500 Вт 3в1 Чорний",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/kitchen/blender2.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"Кавоварка ріжкова з капучинатором",
+            "itemSalePrice":"599",
+            "itemCurrentPrice": "349",
+            "itemId": "303",
+            "itemDataTitle": "Кавоварка ріжкова з капучинатором",
+            "itemLink": "https://coffee.wowteh.store/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/kitchen/coffe1.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Набір кухонне начиння + набір ножів 19 предметів",
+            "itemSalePrice":"1299",
+            "itemCurrentPrice": "999",
+            "itemId": "302",
+            "itemDataTitle": "Набір кухонне начиння + набір ножів 19 предметів",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/kitchen/knife1.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"Мультиварка 6,0л 1800Вт 14 программ",
+            "itemSalePrice":"1299",
+            "itemCurrentPrice": "999",
+            "itemId": "214",
+            "itemDataTitle": "Набір кухонне начиння + набір ножів 19 предметів",
+            "itemLink": "https://coffee.wowteh.store/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/kitchen/multi1.jpg",
+            "itemStyle": "none"
+        }
+    ]
+}
