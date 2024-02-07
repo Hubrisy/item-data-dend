@@ -56,6 +56,26 @@
             "itemImg": "https://github.com/Hubrisy/images/raw/main/ka1.jpg"
         },
         {
+            "itemName":"Міні-пила",
+            "itemSalePrice":"1950",
+            "itemCurrentPrice": "1250",
+            "itemId": "308",
+            "itemDataTitle": "Міні-пила",
+            "itemLink": "https://saw1.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/4.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Тактичний ліхтар",
+            "itemSalePrice":"990",
+            "itemCurrentPrice": "499",
+            "itemId": "274",
+            "itemDataTitle": "Тактичний ліхтар",
+            "itemLink": "https://tactical-light1.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/tacticallight.jpg",
+            "itemStyle": "block"
+        },
+        {
             "itemName":"ПОВЕРБАНК чорний",
             "itemSalePrice":"999",
             "itemCurrentPrice": "599",
