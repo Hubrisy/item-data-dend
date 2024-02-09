@@ -1,0 +1,139 @@
+{
+    "items":[
+        {
+            "itemName":"Автомобільний пилосос",
+            "itemSalePrice":"450",
+            "itemCurrentPrice": "149",
+            "itemId": "260",
+            "itemDataTitle": "Автомобільний пилосос",
+            "itemLink": "https://auto-vacuum.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/autovacuum.jpg",
+            "itemStyle": "block"
+        },
+      {
+            "itemName":"Накидка-чoхол на лобове скло",
+            "itemSalePrice":"499",
+            "itemCurrentPrice": "299",
+            "itemId": "333",
+            "itemDataTitle": "Накидка-чехол на лобове скло",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/nakidka.jpg",
+            "itemStyle": "none"
+        },
+      {
+            "itemName":"Автомобільний тримач",
+            "itemSalePrice":"399",
+            "itemCurrentPrice": "299",
+            "itemId": "332",
+            "itemDataTitle": "Автомобільний тримач",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/autoderjatel.jpg",
+            "itemStyle": "none"
+        },
+      {
+            "itemName":"Плівка антидощ для дзеркал на авто",
+            "itemSalePrice":"449",
+            "itemCurrentPrice": "299",
+            "itemId": "334",
+            "itemDataTitle": "Плівка антидощ для дзеркал на авто",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/nakleyka1.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
+            "itemSalePrice":"1999",
+            "itemCurrentPrice": "999",
+            "itemId": "44",
+            "itemDataTitle": "ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
+            "itemLink": "https://power1.wowteh.store/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/powersun.jpg"
+        },
+        {
+            "itemName":"КОФТА ФЛІСОВА",
+            "itemSalePrice":"1600",
+            "itemCurrentPrice": "950",
+            "itemId": "171",
+            "itemDataTitle": "Флісова Кофта",
+            "itemLink": "https://sweater.dend.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/photo_5258456103082118575_y.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Куртка тактична",
+            "itemSalePrice":"3000",
+            "itemCurrentPrice": "1690",
+            "itemId": "211",
+            "itemDataTitle": "Куртка тактична",
+            "itemLink": "https://coat.wowteh.store/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/coat.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"ЗИМОВІ ТАКТИЧНІ РУКАВИЦІ",
+            "itemSalePrice":"1299",
+            "itemCurrentPrice": "546",
+            "itemId": "200",
+            "itemDataTitle": "Рукавиці тактичні",
+            "itemLink": "https://gloves.wowteh.store/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/7.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Кофемашина",
+            "itemSalePrice":"3300",
+            "itemCurrentPrice": "1650",
+            "itemId": "212",
+            "itemDataTitle": "Кофемашина",
+            "itemLink": "https://coffee.wowteh.store/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/ka1.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"ПОТУЖНА НІМЕЦЬКА ЕЛЕКТРОМ'ЯСОРУБКА",
+            "itemSalePrice":"3370",
+            "itemCurrentPrice": "2190",
+            "itemId": "194",
+            "itemDataTitle": "Grinder",
+            "itemLink": "https://grinder.wowteh.store/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/grinder.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Міні-пила",
+            "itemSalePrice":"1950",
+            "itemCurrentPrice": "1250",
+            "itemId": "308",
+            "itemDataTitle": "Міні-пила",
+            "itemLink": "https://pila.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/4.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Тактичний ліхтар",
+            "itemSalePrice":"990",
+            "itemCurrentPrice": "499",
+            "itemId": "274",
+            "itemDataTitle": "Тактичний ліхтар",
+            "itemLink": "https://tactical-flashlight.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/tacticallight.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"ПОВЕРБАНК чорний",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "599",
+            "itemId": "198",
+            "itemDataTitle": "Power Bank 30000 mAh  ЧОРНИЙ",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/powerblack.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"ПОВЕРБАНК білий",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "599",
+            "itemId": "199",
+            "itemDataTitle": "Power Bank 30000 mAh  БІЛИЙ",
+            "itemLink": "undefined",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/powerwhite.jpg",
+            "itemStyle": "none"
+        }
+    ]
+}
