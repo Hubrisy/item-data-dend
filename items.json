@@ -1,6 +1,46 @@
 {
     "items":[
         {
+            "itemName":"Ланцюгова пила",
+            "itemSalePrice":"3200",
+            "itemCurrentPrice": "1599",
+            "itemId": "341",
+            "itemDataTitle": "Ланцюгова пила",
+            "itemLink": "https://pila7d.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/minisaw.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Міні-пила",
+            "itemSalePrice":"1950",
+            "itemCurrentPrice": "1250",
+            "itemId": "308",
+            "itemDataTitle": "Міні-пила",
+            "itemLink": "https://saw1.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/4.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Секатор",
+            "itemSalePrice":"1999",
+            "itemCurrentPrice": "1099",
+            "itemId": "337",
+            "itemDataTitle": "Секатор",
+            "itemLink": "https://sekator.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/sekator.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Тактичний ліхтар",
+            "itemSalePrice":"990",
+            "itemCurrentPrice": "499",
+            "itemId": "274",
+            "itemDataTitle": "Тактичний ліхтар",
+            "itemLink": "https://tactical-light1.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/tacticallight.jpg",
+            "itemStyle": "block"
+        },
+        {
             "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
             "itemSalePrice":"1999",
             "itemCurrentPrice": "999",
@@ -28,16 +68,6 @@
             "itemImg": "https://github.com/Hubrisy/images/raw/main/7.jpg"
         },
         {
-            "itemName":"Куртка тактична",
-            "itemSalePrice":"3000",
-            "itemCurrentPrice": "1690",
-            "itemId": "211",
-            "itemDataTitle": "Куртка тактична",
-            "itemLink": "https://coat.dend.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/coat.jpg",
-            "itemStyle": "block"
-        },
-        {
             "itemName":"ПОТУЖНА НІМЕЦЬКА ЕЛЕКТРОМ'ЯСОРУБКА",
             "itemSalePrice":"3370",
             "itemCurrentPrice": "2190",
@@ -54,26 +84,6 @@
             "itemDataTitle": "Кофемашина",
             "itemLink": "https://coffee.dend.site/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/ka1.jpg"
-        },
-        {
-            "itemName":"Міні-пила",
-            "itemSalePrice":"1950",
-            "itemCurrentPrice": "1250",
-            "itemId": "308",
-            "itemDataTitle": "Міні-пила",
-            "itemLink": "https://saw1.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/4.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Тактичний ліхтар",
-            "itemSalePrice":"990",
-            "itemCurrentPrice": "499",
-            "itemId": "274",
-            "itemDataTitle": "Тактичний ліхтар",
-            "itemLink": "https://tactical-light1.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/tacticallight.jpg",
-            "itemStyle": "block"
         },
         {
             "itemName":"ПОВЕРБАНК чорний",
