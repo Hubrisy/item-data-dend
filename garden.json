@@ -1,0 +1,58 @@
+{
+    "items":[
+        {
+            "itemName":"Полуниця «Королева Єлизавета»",
+            "itemSalePrice":"290",
+            "itemCurrentPrice": "89",
+            "itemId": "366",
+            "itemDataTitle": "Королева Єлизавета",
+            "itemLink": "http://strawberry.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/garden/strawberry.png"
+        },
+        {
+            "itemName":"Абрикос «Янтар Весняний»",
+            "itemSalePrice":"499",
+            "itemCurrentPrice": "149",
+            "itemId": "365",
+            "itemDataTitle": "Абрикос «Янтар Весняний»",
+            "itemLink": "https://abrikos.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/garden/abrikos.png"
+        },
+        {
+            "itemName":"Гранатове дерево «ГЮЛЕЙША УКРАЇНСЬКА»",
+            "itemSalePrice":"210",
+            "itemCurrentPrice": "137",
+            "itemId": "367",
+            "itemDataTitle": "ГРАНАТОВЕ ДЕРЕВО «ГЮЛЕЙША УКРАЇНСЬКА»",
+            "itemLink": "http://granat.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/garden/granat.png"
+        },
+        {
+            "itemName":"Персик «Лордіс»",
+            "itemSalePrice":"402",
+            "itemCurrentPrice": "175",
+            "itemId": "364",
+            "itemDataTitle": "Персик Лордіс",
+            "itemLink": "http://persik.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/garden/persik.png"
+        },
+        {
+            "itemName":"Ківі «Закарпатське»",
+            "itemSalePrice":"599",
+            "itemCurrentPrice": "137",
+            "itemId": "353",
+            "itemDataTitle": "Ківі «Закарпатське»",
+            "itemLink": "http://qiwi.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/garden/qiwi.png"
+        },
+        {
+            "itemName":"Черешня «Плакуча»",
+            "itemSalePrice":"274",
+            "itemCurrentPrice": "137",
+            "itemId": "357",
+            "itemDataTitle": "Черешня «Плакуча»",
+            "itemLink": "https://cherries.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/garden/cherries.png"
+        }
+    ]
+}
