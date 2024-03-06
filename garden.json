@@ -1,15 +1,6 @@
 {
     "items":[
         {
-            "itemName":"Полуниця «Королева Єлизавета»",
-            "itemSalePrice":"290",
-            "itemCurrentPrice": "89",
-            "itemId": "366",
-            "itemDataTitle": "Королева Єлизавета",
-            "itemLink": "http://strawberry.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/garden/strawberry.png"
-        },
-        {
             "itemName":"Абрикос «Янтар Весняний»",
             "itemSalePrice":"499",
             "itemCurrentPrice": "149",
