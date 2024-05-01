@@ -2,104 +2,173 @@
     "items":[
         {
             "itemName":"Ланцюгова пила",
-            "itemSalePrice":"3200",
-            "itemCurrentPrice": "1649",
-            "itemId": "341",
-            "itemDataTitle": "Ланцюгова пила",
-            "itemLink": "https://pila7d.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/pilalogo2.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Міні-пила",
             "itemSalePrice":"1950",
             "itemCurrentPrice": "1250",
             "itemId": "308",
-            "itemDataTitle": "Міні-пила",
+            "itemDataTitle": "Ланцюгова пила",
             "itemLink": "https://saw1.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/4.jpg",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/pila.jpg",
             "itemStyle": "block"
         },
         {
-            "itemName":"Секатор",
-            "itemSalePrice":"1999",
-            "itemCurrentPrice": "1099",
+            "itemName":"Екобордюр",
+            "itemSalePrice":"989",
+            "itemCurrentPrice": "499",
+            "itemId": "476",
+            "itemDataTitle": "Екобордюр",
+            "itemLink": "https://bigzabor.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/ecobord.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Тактичний ліхтарик",
+            "itemSalePrice":"990",
+            "itemCurrentPrice": "399",
+            "itemId": "274",
+            "itemDataTitle": "Тактичний ліхтарик",
+            "itemLink": "https://tactical-light.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/flashlight.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Компрессор",
+            "itemSalePrice":"1058",
+            "itemCurrentPrice": "349",
+            "itemId": "274",
+            "itemDataTitle": "Компрессор",
+            "itemLink": "http://compressor.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/compressor.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Насадка на культиватор",
+            "itemSalePrice":"599",
+            "itemCurrentPrice": "399",
+            "itemId": "393",
+            "itemDataTitle": "Насадка на культиватор",
+            "itemLink": "http://nasadkakultivator.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/culteequip.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Ручний культиватор",
+            "itemSalePrice":"699",
+            "itemCurrentPrice": "399",
+            "itemId": "489",
+            "itemDataTitle": "Ручний культиватор",
+            "itemLink": "https://kultiv1.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/cultivator.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Універсальний набір випічки",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "499",
+            "itemId": "489",
+            "itemDataTitle": "Універсальний набір випічки",
+            "itemLink": "https://shvabra.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/vipechka.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Розумна косметичка",
+            "itemSalePrice":"2200",
+            "itemCurrentPrice": "1199",
+            "itemId": "368",
+            "itemDataTitle": "Розумна косметичка",
+            "itemLink": "http://smartcosmetics2.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/cosmetik.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Сонячна електростанція",
+            "itemSalePrice":"1799",
+            "itemCurrentPrice": "849",
+            "itemId": "512",
+            "itemDataTitle": "Сонячна електростанція",
+            "itemLink": "https://station1.dend.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/station.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Гребінець від вошей",
+            "itemSalePrice":"400",
+            "itemCurrentPrice": "199",
+            "itemId": "295",
+            "itemDataTitle": "Гребінець від вошей",
+            "itemLink": "https://comb.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/comb.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Автомобільний пилосос",
+            "itemSalePrice":"800",
+            "itemCurrentPrice": "399",
+            "itemId": "260",
+            "itemDataTitle": "Автомобільний пилосос",
+            "itemLink": "https://auto-vacuum.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/pilosos.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Автомобільна мийка",
+            "itemSalePrice":"2450",
+            "itemCurrentPrice": "1499",
+            "itemId": "350",
+            "itemDataTitle": "Автомобільна мийка",
+            "itemLink": "http://moyka.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/moyka.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Електром'ясорубка",
+            "itemSalePrice":"2600",
+            "itemCurrentPrice": "1399",
+            "itemId": "194",
+            "itemDataTitle": "Електром'ясорубка",
+            "itemLink": "https://grinder.dend.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/grinder.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Висоторіз-секатор",
+            "itemSalePrice":"1599",
+            "itemCurrentPrice": "999",
             "itemId": "337",
-            "itemDataTitle": "Секатор",
-            "itemLink": "https://sekator.dinowaw.site/",
+            "itemDataTitle": "Висоторіз-секатор",
+            "itemLink": "https://secator.dinowaw.site/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/sekator.jpg",
             "itemStyle": "block"
         },
         {
-            "itemName":"Тактичний ліхтар",
-            "itemSalePrice":"990",
-            "itemCurrentPrice": "499",
-            "itemId": "274",
-            "itemDataTitle": "Тактичний ліхтар",
-            "itemLink": "https://tactical-light1.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/tacticallight.jpg",
+            "itemName":"Шланг Туман",
+            "itemSalePrice":"1240",
+            "itemCurrentPrice": "620",
+            "itemId": "371",
+            "itemDataTitle": "Шланг Туман",
+            "itemLink": "http://shlangtuman.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shlang.jpg",
             "itemStyle": "block"
         },
         {
-            "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
-            "itemSalePrice":"1999",
-            "itemCurrentPrice": "999",
-            "itemId": "44",
-            "itemDataTitle": "ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
-            "itemLink": "https://station1.dend.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/powersun.jpg"
+            "itemName":"Сівалка ручна",
+            "itemSalePrice":"1399",
+            "itemCurrentPrice": "899",
+            "itemId": "454",
+            "itemDataTitle": "Сівалка ручна",
+            "itemLink": "http://sivalka.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/sivalka.jpg",
+            "itemStyle": "block"
         },
         {
-            "itemName":"КОФТА ФЛІСОВА",
-            "itemSalePrice":"1600",
-            "itemCurrentPrice": "950",
-            "itemId": "171",
-            "itemDataTitle": "Флісова Кофта",
-            "itemLink": "https://sweater1.dend.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/photo_5258456103082118575_y.jpg"
-        },
-        {
-            "itemName":"ЗИМОВІ ТАКТИЧНІ РУКАВИЦІ",
-            "itemSalePrice":"1299",
-            "itemCurrentPrice": "546",
-            "itemId": "200",
-            "itemDataTitle": "Рукавиці тактичні",
-            "itemLink": "https://gloves.dend.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/7.jpg"
-        },
-        {
-            "itemName":"ПОТУЖНА НІМЕЦЬКА ЕЛЕКТРОМ'ЯСОРУБКА",
-            "itemSalePrice":"3370",
-            "itemCurrentPrice": "2190",
-            "itemId": "194",
-            "itemDataTitle": "Grinder",
-            "itemLink": "https://grinder.dend.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/grinder.jpg"
-        },
-        {
-            "itemName":"Кофемашина",
-            "itemSalePrice":"3300",
-            "itemCurrentPrice": "1650",
-            "itemId": "212",
-            "itemDataTitle": "Кофемашина",
-            "itemLink": "https://coffee.dend.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/ka1.jpg"
-        },
-        {
-            "itemName":"ПОВЕРБАНК чорний",
-            "itemSalePrice":"999",
-            "itemCurrentPrice": "599",
-            "itemId": "198",
-            "itemDataTitle": "Power Bank 30000 mAh  ЧОРНИЙ",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/powerblack.jpg"
-        },
-        {
-            "itemName":"ПОВЕРБАНК білий",
-            "itemSalePrice":"999",
-            "itemCurrentPrice": "599",
-            "itemId": "199",
-            "itemDataTitle": "Power Bank 30000 mAh  БІЛИЙ",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/powerwhite.jpg"
+            "itemName":"Розсувний турнік",
+            "itemSalePrice":"899",
+            "itemCurrentPrice": "399",
+            "itemId": "455",
+            "itemDataTitle": "Розсувний турнік",
+            "itemLink": "http://turnik.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/turnik.jpg",
+            "itemStyle": "block"
         }
     ]
 }
