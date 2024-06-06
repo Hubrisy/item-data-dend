@@ -101,16 +101,6 @@
             "itemStyle": "block"
         },
         {
-            "itemName":"Універсальний набір випічки",
-            "itemSalePrice":"999",
-            "itemCurrentPrice": "499",
-            "itemId": "489",
-            "itemDataTitle": "Універсальний набір випічки",
-            "itemLink": "https://shvabra.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/vipechka.jpg",
-            "itemStyle": "block"
-        },
-        {
             "itemName":"Розумна косметичка",
             "itemSalePrice":"2200",
             "itemCurrentPrice": "1199",
@@ -138,16 +128,6 @@
             "itemDataTitle": "Гребінець від вошей",
             "itemLink": "https://comb.dinowaw.site/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/comb.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Автомобільний пилосос",
-            "itemSalePrice":"800",
-            "itemCurrentPrice": "399",
-            "itemId": "260",
-            "itemDataTitle": "Автомобільний пилосос",
-            "itemLink": "https://auto-vacuum.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/pilosos.jpg",
             "itemStyle": "block"
         },
         {
