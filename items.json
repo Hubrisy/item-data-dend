@@ -1,6 +1,74 @@
 {
     "items":[
         {
+            "itemName":"Аккумуляторна лампа",
+            "itemSalePrice":"498",
+            "itemCurrentPrice": "249",
+            "itemId": "731",
+            "itemDataTitle": "Аккумуляторна лампа",
+            "itemLink": "https://almina.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/almina.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Кемпінговий ліхтар",
+            "itemSalePrice":"529",
+            "itemCurrentPrice": "249",
+            "itemId": "733",
+            "itemDataTitle": "Кемпінговий ліхта",
+            "itemLink": "https://camplight2.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/camplight.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Кабель живлення для роутера",
+            "itemSalePrice":"318",
+            "itemCurrentPrice": "159",
+            "itemId": "745",
+            "itemDataTitle": "Кабель живлення для роутера",
+            "itemLink": "https://dccable.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/dccable.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Люстра-вентилятор",
+            "itemSalePrice":"1240",
+            "itemCurrentPrice": "649",
+            "itemId": "740",
+            "itemDataTitle": "Люстра-вентилятор",
+            "itemLink": "https://lustra.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/lustra.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Повербанк 4 шнури",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "449",
+            "itemId": "740",
+            "itemDataTitle": "Повербанк 4 шнури",
+            "itemLink": "https://power.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/power10k.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Повербанк 20к",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "549",
+            "itemId": "749",
+            "itemDataTitle": "Повербанк 20к",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/power20k.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"Повербанк 50к",
+            "itemSalePrice":"1299",
+            "itemCurrentPrice": "899",
+            "itemId": "461",
+            "itemDataTitle": "Повербанк 50к",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/power50k.jpg",
+            "itemStyle": "none"
+        },
+        {
             "itemName":"Огорожа",
             "itemSalePrice":"99",
             "itemCurrentPrice": "63",
