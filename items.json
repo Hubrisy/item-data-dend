@@ -6,7 +6,7 @@
             "itemCurrentPrice": "63",
             "itemId": "570",
             "itemDataTitle": "Огорожа",
-            "itemLink": "https://zont.dinowaw.site/",
+            "itemLink": "https://ogorozha2.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/ogorozha.jpg",
             "itemStyle": "block"
         },
@@ -21,32 +21,12 @@
             "itemStyle": "block"
         },
         {
-            "itemName":"Душ-палатка",
-            "itemSalePrice":"3000",
-            "itemCurrentPrice": "899",
-            "itemId": "493",
-            "itemDataTitle": "Душ-палатка",
-            "itemLink": "https://palatkadyw.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/dyw.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Wifi-camera",
-            "itemSalePrice":"1460",
-            "itemCurrentPrice": "899",
-            "itemId": "545",
-            "itemDataTitle": "Wifi-camera",
-            "itemLink": "https://wificamera.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/wifi.jpg",
-            "itemStyle": "block"
-        },
-        {
             "itemName":"Ланцюгова пила",
             "itemSalePrice":"1950",
             "itemCurrentPrice": "1250",
             "itemId": "308",
             "itemDataTitle": "Ланцюгова пила",
-            "itemLink": "https://saw1.dinowaw.site/",
+            "itemLink": "https://pila.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/pila.jpg",
             "itemStyle": "block"
         },
@@ -55,29 +35,9 @@
             "itemSalePrice":"989",
             "itemCurrentPrice": "499",
             "itemId": "476",
-            "itemDataTitle": "Екобордюр",
-            "itemLink": "https://bigzabor.dinowaw.site/",
+            "itemDataTitle": "Ланцюгова пила",
+            "itemLink": "https://ecobord.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/ecobord.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Тактичний ліхтарик",
-            "itemSalePrice":"990",
-            "itemCurrentPrice": "399",
-            "itemId": "274",
-            "itemDataTitle": "Тактичний ліхтарик",
-            "itemLink": "https://tactical-light.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/flashlight.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Компрессор",
-            "itemSalePrice":"1058",
-            "itemCurrentPrice": "349",
-            "itemId": "274",
-            "itemDataTitle": "Компрессор",
-            "itemLink": "http://compressor.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/compressor.jpg",
             "itemStyle": "block"
         },
         {
@@ -86,7 +46,7 @@
             "itemCurrentPrice": "399",
             "itemId": "393",
             "itemDataTitle": "Насадка на культиватор",
-            "itemLink": "http://nasadkakultivator.dinowaw.site/",
+            "itemLink": "https://cultequip.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/culteequip.jpg",
             "itemStyle": "block"
         },
@@ -106,7 +66,7 @@
             "itemCurrentPrice": "1199",
             "itemId": "368",
             "itemDataTitle": "Розумна косметичка",
-            "itemLink": "http://smartcosmetics2.dinowaw.site/",
+            "itemLink": "https://mirror.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/cosmetik.jpg",
             "itemStyle": "block"
         },
@@ -116,7 +76,7 @@
             "itemCurrentPrice": "849",
             "itemId": "512",
             "itemDataTitle": "Сонячна електростанція",
-            "itemLink": "https://station1.dend.site/",
+            "itemLink": "https://station.morzshop.site/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/station.jpg",
             "itemStyle": "block"
         },
@@ -126,28 +86,8 @@
             "itemCurrentPrice": "199",
             "itemId": "295",
             "itemDataTitle": "Гребінець від вошей",
-            "itemLink": "https://comb.dinowaw.site/",
+            "itemLink": "https://comb.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/comb.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Автомобільна мийка",
-            "itemSalePrice":"2450",
-            "itemCurrentPrice": "1499",
-            "itemId": "350",
-            "itemDataTitle": "Автомобільна мийка",
-            "itemLink": "http://moyka.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/moyka.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Електром'ясорубка",
-            "itemSalePrice":"2600",
-            "itemCurrentPrice": "1399",
-            "itemId": "194",
-            "itemDataTitle": "Електром'ясорубка",
-            "itemLink": "https://grinder.dend.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/grinder.jpg",
             "itemStyle": "block"
         },
         {
@@ -156,7 +96,7 @@
             "itemCurrentPrice": "999",
             "itemId": "337",
             "itemDataTitle": "Висоторіз-секатор",
-            "itemLink": "https://secator.dinowaw.site/",
+            "itemLink": "https://sekator.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/sekator.jpg",
             "itemStyle": "block"
         },
@@ -166,28 +106,8 @@
             "itemCurrentPrice": "620",
             "itemId": "371",
             "itemDataTitle": "Шланг Туман",
-            "itemLink": "http://shlangtuman.dinowaw.site/",
+            "itemLink": "https://shlang.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/shlang.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Сівалка ручна",
-            "itemSalePrice":"1399",
-            "itemCurrentPrice": "899",
-            "itemId": "454",
-            "itemDataTitle": "Сівалка ручна",
-            "itemLink": "http://sivalka.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/sivalka.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Розсувний турнік",
-            "itemSalePrice":"899",
-            "itemCurrentPrice": "399",
-            "itemId": "455",
-            "itemDataTitle": "Розсувний турнік",
-            "itemLink": "http://turnik.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/turnik.jpg",
             "itemStyle": "block"
         }
     ]
