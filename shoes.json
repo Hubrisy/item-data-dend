@@ -1,0 +1,188 @@
+{
+    "items":[
+        {
+            "itemName":"Антіперсперант для ніг",
+            "itemSalePrice":"299",
+            "itemCurrentPrice": "159",
+            "itemId": "400",
+            "itemDataTitle": "Антіперсперант для ніг",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/antiseptic.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"Універсальний захист від води Silver для всіх типів виробів 300 ml ",
+            "itemSalePrice":"399",
+            "itemCurrentPrice": "249",
+            "itemId": "401",
+            "itemDataTitle": "Універсальний захист від води Silver для всіх типів виробів 300 ml ",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/def.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"Фарба для замші та нубука Silver Чорна  та Безбарвна 300 ml ",
+            "itemSalePrice":"399",
+            "itemCurrentPrice": "249",
+            "itemId": "402",
+            "itemDataTitle": "Фарба для замші та нубука Silver Чорна  та Безбарвна 300 ml ",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/farba.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"Фіксатор великого пальця ноги valgus pro 2 шт ",
+            "itemSalePrice":"199",
+            "itemCurrentPrice": "99",
+            "itemId": "403",
+            "itemDataTitle": "Фіксатор великого пальця ноги valgus pro 2 шт",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/fixator.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"Чохол для зберігання взуття на завязках з віконцем универсал 32*44 см Великий",
+            "itemSalePrice":"249",
+            "itemCurrentPrice": "129",
+            "itemId": "404",
+            "itemDataTitle": "Чохол для зберігання взуття на завязках з віконцем универсал 32*44 см Великий",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/meshok.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"Губка-блиск для взуття Silver з дозатором силікону натуральна 6 ml",
+            "itemSalePrice":"199",
+            "itemCurrentPrice": "110",
+            "itemId": "405",
+            "itemDataTitle": "Губка-блиск для взуття Silver з дозатором силікону натуральна 6 ml",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/gubka.jpg",
+            "itemStyle": "none"
+        },
+        {
+            "itemName":"ЖІНОЧІ ЗИМОВІ БОТІНКИ",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "799",
+            "itemId": "406",
+            "itemDataTitle": "ЖІНОЧІ ЗИМОВІ БОТІНКИ",
+            "itemLink": "https://cherevichkibej.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/botsbej.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"СІРІ ЖІНОЧІ КРОСІВКИ З ХУТРОМ",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "799",
+            "itemId": "407",
+            "itemDataTitle": "СІРІ ЖІНОЧІ КРОСІВКИ З ХУТРОМ",
+            "itemLink": "http://krossi.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/botsgrey.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"ЧОРНІ ЖІНОЧІ КРОСІВКИ З ХУТРОМ ",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "799",
+            "itemId": "408",
+            "itemDataTitle": "ЧОРНІ ЖІНОЧІ КРОСІВКИ З ХУТРОМ ",
+            "itemLink": "https://krossiblk.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/botsblack.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"БЕЖЕВІ ЖІНОЧІ КРОСІВКИ З ХУТРОМ",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "799",
+            "itemId": "409",
+            "itemDataTitle": "БЕЖЕВІ ЖІНОЧІ КРОСІВКИ З ХУТРОМ",
+            "itemLink": "https://krossibej.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/botscrem.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"ЧОРНІ ЗАМШ ЖІНОЧІ ЧЕРЕВИКИ",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "799",
+            "itemId": "410",
+            "itemDataTitle": "ЧОРНІ ЗАМШ ЖІНОЧІ ЧЕРЕВИКИ",
+            "itemLink": "https://winterkross.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/botshighblack.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"СІРІ ЗАМШ ЖІНОЧІ ЧЕРЕВИКИ",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "799",
+            "itemId": "411",
+            "itemDataTitle": "СІРІ ЗАМШ ЖІНОЧІ ЧЕРЕВИКИ",
+            "itemLink": "https://krosiwhi.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/botshighwhite.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Жіночі літні кросівки",
+            "itemSalePrice":"799",
+            "itemCurrentPrice": "599",
+            "itemId": "412",
+            "itemDataTitle": "Жіночі літні кросівки",
+            "itemLink": "https://womancross.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/makasinswhite.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Літні кросівки чорні",
+            "itemSalePrice":"799",
+            "itemCurrentPrice": "599",
+            "itemId": "413",
+            "itemDataTitle": "Літні кросівки чорні",
+            "itemLink": "https://summerman.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/makasinsblack.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"ЧОЛОВІЧІ ЛІТНІ СЛІПОНИ",
+            "itemSalePrice":"599",
+            "itemCurrentPrice": "399",
+            "itemId": "414",
+            "itemDataTitle": "ЧОЛОВІЧІ ЛІТНІ СЛІПОНИ",
+            "itemLink": "https://sliponyman.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/makasinsgrey.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Балетки літні(блакитні,бежеві,чорні,білі)",
+            "itemSalePrice":"649",
+            "itemCurrentPrice": "499",
+            "itemId": "415",
+            "itemDataTitle": "Балетки літні",
+            "itemLink": "https://baletki5.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/baletkiblack.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Макасини жіночі(білі,чорні,червоні,хакі)",
+            "itemSalePrice":"649",
+            "itemCurrentPrice": "499",
+            "itemId": "416",
+            "itemDataTitle": "Макасини жіночі",
+            "itemLink": "https://womanmakasin.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/baletkiwhite.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Макасини Сакура(червоні,сині)",
+            "itemSalePrice":"649",
+            "itemCurrentPrice": "499",
+            "itemId": "417",
+            "itemDataTitle": "Макасини Сакура",
+            "itemLink": "https://baletkisacura.dinowaw.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/sakura.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Чоловічі сланці з піни(білі,чорні,хакі)",
+            "itemSalePrice":"649",
+            "itemCurrentPrice": "499",
+            "itemId": "418",
+            "itemDataTitle": "Чоловічі сланці з піни",
+            "itemLink": "https://slanci.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/shlepki.jpg",
+            "itemStyle": "block"
+        }
+    ]
+}
