@@ -28,6 +28,15 @@
             "itemStyle": "none"
         },
         {
+            "itemName":"Очищаючі пластирі на стопи Кінокі ",
+            "itemSalePrice":"199",
+            "itemCurrentPrice": "150",
+            "itemId": "907",
+            "itemDataTitle": "Очищаючі пластирі на стопи Кінокі ",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shoes/plastirkinoki.jpg",
+            "itemStyle": "none"
+        },
+        {
             "itemName":"Фіксатор великого пальця ноги valgus pro 2 шт ",
             "itemSalePrice":"199",
             "itemCurrentPrice": "99",
