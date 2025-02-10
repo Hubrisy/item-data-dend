@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "itemName": "Ювелірний нібр кільце + сережки",
+      "itemSalePrice": "699",
+      "itemCurrentPrice": "399",
+      "itemId": "912",
+      "itemDataTitle": "Ювелірний нібр кільце + сережки",
+      "itemLink": "https://dop2comp.dinowaw.site/",
+      "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1.png",
+      "itemStyle": "block"
+    },
+    {
+      "itemName": "Ювелірний нібр кільце + сережки",
+      "itemSalePrice": "699",
+      "itemCurrentPrice": "399",
+      "itemId": "911",
+      "itemDataTitle": "Ювелірний нібр кільце + сережки",
+      "itemLink": "https://dop1comp.dinowaw.site/",
+      "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw2.png",
+      "itemStyle": "block"
+    },
+    {
+      "itemName": "Ювелірний нібр жіночий браслет та цепочка + хрест в подарунок",
+      "itemSalePrice": "699",
+      "itemCurrentPrice": "399",
+      "itemId": "779",
+      "itemDataTitle": "Ювелірний нібр жіночий браслет та цепочка + хрест в подарунок",
+      "itemLink": "https://dop4dnavor.dinowaw.site/",
+      "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw3w.png",
+      "itemStyle": "block"
+    },
+    {
+      "itemName": "Ювелірний нібр чоловічий браслет та цепочка + хрест в подарунок",
+      "itemSalePrice": "699",
+      "itemCurrentPrice": "399",
+      "itemId": "803",
+      "itemDataTitle": "Ювелірний нібр чоловічий браслет та цепочка + хрест в подарунок",
+      "itemLink": "https://dop3mnabor.dinowaw.site/",
+      "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw4m.png",
+      "itemStyle": "block"
+    }
+  ]
+}
