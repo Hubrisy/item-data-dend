@@ -11,16 +11,6 @@
         "itemStyle": "block"
       },
       {
-        "itemName": "Ювелірний набір кільце + сережки",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "399",
-        "itemId": "911",
-        "itemDataTitle": "Ювелірний набір кільце + сережки",
-        "itemLink": "https://dop1comp.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw2.png",
-        "itemStyle": "block"
-      },
-      {
         "itemName": "Ювелірний набір жіночий браслет та цепочка + хрест в подарунок",
         "itemSalePrice": "699",
         "itemCurrentPrice": "399",
@@ -61,33 +51,103 @@
         "itemStyle": "block"
       },
       {
-        "itemName": "Комплект 'Перлина'",
-        "itemSalePrice": "899",
-        "itemCurrentPrice": "399",
-        "itemId": "929",
-        "itemDataTitle": "Комплект 'Перлина",
-        "itemLink": "https://jewerly8.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw6.jpg",
-        "itemStyle": "block"
-      },
-      {
         "itemName": "Ювелірний набір",
-        "itemSalePrice": "799",
+        "itemSalePrice": "699",
         "itemCurrentPrice": "349",
-        "itemId": "925",
+        "itemId": "928",
         "itemDataTitle": "Ювелірний набір",
-        "itemLink": "https://jewerly6.dinowaw.site/",
+        "itemLink": "https://jewerly7.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw7.jpg",
         "itemStyle": "block"
       },
       {
-        "itemName": "Комплект 'Loveheart'",
-        "itemSalePrice": "1199",
-        "itemCurrentPrice": "549",
-        "itemId": "926",
+        "itemName": "Ювелірний набір",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "329",
+        "itemId": "933",
         "itemDataTitle": "Ювелірний набір",
-        "itemLink": "https://jewerly5.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw9.jpg",
+        "itemLink": "https://jewerly12.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw12.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Ювелірний набір 'Жемчуг'",
+        "itemSalePrice": "599",
+        "itemCurrentPrice": "299",
+        "itemId": "936",
+        "itemDataTitle": "Ювелірний набір 'Жемчуг'",
+        "itemLink": "https://jewerly15.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw15.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Чоловічий набір браслет + ланцюжок",
+        "itemSalePrice": "999",
+        "itemCurrentPrice": "649",
+        "itemId": "944",
+        "itemDataTitle": "Чоловічий набір браслет + ланцюжок",
+        "itemLink": "https://nabor4.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nb4.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Чоловічий набір браслет + ланцюжок",
+        "itemSalePrice": "999",
+        "itemCurrentPrice": "649",
+        "itemId": "943",
+        "itemDataTitle": "Чоловічий набір браслет + ланцюжок",
+        "itemLink": "https://nabor5.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nb5.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Чоловічий набір браслет + ланцюжок",
+        "itemSalePrice": "999",
+        "itemCurrentPrice": "699",
+        "itemId": "942",
+        "itemDataTitle": "Чоловічий набір браслет + ланцюжок",
+        "itemLink": "https://nabor3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nb3.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Чоловічий набір браслет + ланцюжок",
+        "itemSalePrice": "999",
+        "itemCurrentPrice": "599",
+        "itemId": "941",
+        "itemDataTitle": "Чоловічий набір браслет + ланцюжок",
+        "itemLink": "https://nabor2.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nb2.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Чоловічий набір браслет + ланцюжок",
+        "itemSalePrice": "999",
+        "itemCurrentPrice": "699",
+        "itemId": "940",
+        "itemDataTitle": "Чоловічий набір браслет + ланцюжок",
+        "itemLink": "https://nabor1.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nb1.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Набір прикрас",
+        "itemSalePrice": "899",
+        "itemCurrentPrice": "499",
+        "itemId": "935",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://jewerly14.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw14.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Набір прикрас",
+        "itemSalePrice": "599",
+        "itemCurrentPrice": "299",
+        "itemId": "932",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://jewerly11.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw11.jpg",
         "itemStyle": "block"
       }
     ]
