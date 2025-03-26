@@ -1,6 +1,6 @@
 {
   "WomenJWSet": {
-    "name": "Жіночий ювелірний набір",
+    "name": "Жіночі ювелірні набори",
     "id":"WomenJWSet",
     "items": [
       {
@@ -172,7 +172,7 @@
     ]
   },
   "WomenNecklace": {
-    "name": "Жіноча підвіска",
+    "name": "Жіночі підвіски",
     "id":"WomenNecklace",
     "items": [
       {
@@ -188,7 +188,7 @@
     ]
   },
   "WomenClocks": {
-    "name": "Жіночий годинник",
+    "name": "Жіночі годинники",
     "id":"WomenClocks",
     "items": [
       {
@@ -205,7 +205,7 @@
     ]
   },
   "MenJWSet": {
-    "name": "Чоловічий ювелірний набір",
+    "name": "Чоловічі ювелірні набори",
     "id":"MenJWSet",
     "items": [
       {
