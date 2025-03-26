@@ -24,16 +24,6 @@
         "itemStyle": "block"
       },
       {
-        "itemName": "Ювелірний набір чоловічий браслет та цепочка + хрест в подарунок",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "599",
-        "itemId": "803",
-        "itemDataTitle": "Ювелірний набір чоловічий браслет та цепочка + хрест в подарунок",
-        "itemLink": "https://dop3mnabor.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw4m.png",
-        "itemStyle": "block"
-      },
-      {
         "itemName": "Ювелірний набір",
         "itemSalePrice": "699",
         "itemCurrentPrice": "349",
@@ -246,6 +236,16 @@
         "itemDataTitle": "Чоловічий набір браслет + ланцюжок",
         "itemLink": "https://nabor2.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nb2.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Ювелірний набір чоловічий браслет та цепочка + хрест в подарунок",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "599",
+        "itemId": "803",
+        "itemDataTitle": "Ювелірний набір чоловічий браслет та цепочка + хрест в подарунок",
+        "itemLink": "https://dop3mnabor.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw4m.png",
         "itemStyle": "block"
       },
       {
