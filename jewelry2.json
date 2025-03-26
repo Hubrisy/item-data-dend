@@ -1,6 +1,7 @@
 {
   "WomenJWSet": {
     "name": "Жіночий ювелірний набір",
+    "id":"WomenJWSet",
     "items": [
       {
         "itemName": "Ювелірний набір кільце + сережки",
@@ -146,6 +147,7 @@
   },
   "WomenEarrings": {
     "name": "Жіночі сережки",
+    "id":"WomenEarrings",
     "items": [
       {
         "itemName": "Набір сережек",
@@ -171,6 +173,7 @@
   },
   "WomenNecklace": {
     "name": "Жіноча підвіска",
+    "id":"WomenNecklace",
     "items": [
       {
         "itemName": "Ювелірний набір",
@@ -184,8 +187,26 @@
       }
     ]
   },
+  "WomenClocks": {
+    "name": "Жіночий годинник",
+    "id":"WomenClocks",
+    "items": [
+      {
+        "itemName": "Жіночий годинник",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "449",
+        "itemId": "947",
+        "itemDataTitle": "Жіночий годинник",
+        "sections": "WomenClocks",
+        "itemLink": "https://clocks1.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/clocks1.jpg",
+        "itemStyle": "block"
+      }
+    ]
+  },
   "MenJWSet": {
     "name": "Чоловічий ювелірний набір",
+    "id":"MenJWSet",
     "items": [
       {
         "itemName": "Чоловічий набір браслет + ланцюжок",
@@ -235,22 +256,6 @@
         "itemDataTitle": "Чоловічий набір браслет + ланцюжок",
         "itemLink": "https://nabor1.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nb1.jpg",
-        "itemStyle": "block"
-      }
-    ]
-  },
-  "WomenClocks": {
-    "name": "Жіночий годинник",
-    "items": [
-      {
-        "itemName": "Жіночий годинник",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "449",
-        "itemId": "947",
-        "itemDataTitle": "Жіночий годинник",
-        "sections": "WomenClocks",
-        "itemLink": "https://clocks1.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/clocks1.jpg",
         "itemStyle": "block"
       }
     ]
