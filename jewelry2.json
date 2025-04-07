@@ -1,7 +1,6 @@
 {
   "WomenJWSet": {
-    "name": "Жіночі ювелірні набори",
-    "id":"WomenJWSet",
+    "name": "Жіночий ювелірний набір",
     "items": [
       {
         "itemName": "Ювелірний набір кільце + сережки",
@@ -21,6 +20,16 @@
         "itemDataTitle": "Ювелірний набір жіночий браслет та цепочка + хрест в подарунок",
         "itemLink": "https://dop4dnavor.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw3w.png",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Ювелірний набір чоловічий браслет та цепочка + хрест в подарунок",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "599",
+        "itemId": "803",
+        "itemDataTitle": "Ювелірний набір чоловічий браслет та цепочка + хрест в подарунок",
+        "itemLink": "https://dop3mnabor.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw4m.png",
         "itemStyle": "block"
       },
       {
@@ -132,12 +141,81 @@
         "itemLink": "https://nabor6.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor6.jpg",
         "itemStyle": "block"
+      },
+      {
+        "itemName": "Набір прикрас",
+        "itemSalePrice": "799",
+        "itemCurrentPrice": "389",
+        "itemId": "956",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://ornaments4.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments4.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Набір прикрас",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "349",
+        "itemId": "957",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://ornaments2.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments2.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Набір прикрас",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "349",
+        "itemId": "958",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://ornaments10.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments10.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Набір прикрас",
+        "itemSalePrice": "799",
+        "itemCurrentPrice": "389",
+        "itemId": "959",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://ornaments5.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments5.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Набір прикрас",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "299",
+        "itemId": "960",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://ornaments6.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments6.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Набір прикрас",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "299",
+        "itemId": "962",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://ornaments3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments3.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Набір прикрас",
+        "itemSalePrice": "799",
+        "itemCurrentPrice": "399",
+        "itemId": "961",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://finery3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/finery3.jpg",
+        "itemStyle": "block"
       }
     ]
   },
   "WomenEarrings": {
     "name": "Жіночі сережки",
-    "id":"WomenEarrings",
     "items": [
       {
         "itemName": "Набір сережек",
@@ -162,8 +240,7 @@
     ]
   },
   "WomenNecklace": {
-    "name": "Жіночі підвіски",
-    "id":"WomenNecklace",
+    "name": "Жіноча підвіска",
     "items": [
       {
         "itemName": "Ювелірний набір",
@@ -177,26 +254,8 @@
       }
     ]
   },
-  "WomenClocks": {
-    "name": "Жіночі годинники",
-    "id":"WomenClocks",
-    "items": [
-      {
-        "itemName": "Жіночий годинник",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "449",
-        "itemId": "947",
-        "itemDataTitle": "Жіночий годинник",
-        "sections": "WomenClocks",
-        "itemLink": "https://clocks1.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/clocks1.jpg",
-        "itemStyle": "block"
-      }
-    ]
-  },
   "MenJWSet": {
-    "name": "Чоловічі ювелірні набори",
-    "id":"MenJWSet",
+    "name": "Чоловічий ювелірний набір",
     "items": [
       {
         "itemName": "Чоловічий набір браслет + ланцюжок",
@@ -239,16 +298,6 @@
         "itemStyle": "block"
       },
       {
-        "itemName": "Ювелірний набір чоловічий браслет та цепочка + хрест в подарунок",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "599",
-        "itemId": "803",
-        "itemDataTitle": "Ювелірний набір чоловічий браслет та цепочка + хрест в подарунок",
-        "itemLink": "https://dop3mnabor.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw4m.png",
-        "itemStyle": "block"
-      },
-      {
         "itemName": "Чоловічий набір браслет + ланцюжок",
         "itemSalePrice": "999",
         "itemCurrentPrice": "699",
@@ -256,6 +305,22 @@
         "itemDataTitle": "Чоловічий набір браслет + ланцюжок",
         "itemLink": "https://nabor1.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nb1.jpg",
+        "itemStyle": "block"
+      }
+    ]
+  },
+  "WomenClocks": {
+    "name": "Жіночий годинник",
+    "items": [
+      {
+        "itemName": "Жіночий годинник",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "449",
+        "itemId": "947",
+        "itemDataTitle": "Жіночий годинник",
+        "sections": "WomenClocks",
+        "itemLink": "https://clocks1.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/clocks1.jpg",
         "itemStyle": "block"
       }
     ]
