@@ -17,7 +17,7 @@
       {
         "itemName": "Ювелірний набір жіночий браслет та цепочка + хрест в подарунок(id803)",
         "itemSalePrice": "699",
-        "itemCurrentPrice": "399",
+        "itemCurrentPrice": "449",
         "quantity": 1,
         "itemId": "803",
         "itemDataTitle": "Ювелірний набір жіночий браслет та цепочка + хрест в подарунок",
@@ -28,7 +28,7 @@
       {
         "itemName": "Ювелірний набір чоловічий браслет та цепочка + хрест в подарунок(id779)",
         "itemSalePrice": "699",
-        "itemCurrentPrice": "599",
+        "itemCurrentPrice": "699",
         "quantity": 1,
         "itemId": "779",
         "itemDataTitle": "Ювелірний набір чоловічий браслет та цепочка + хрест в подарунок",
@@ -45,17 +45,6 @@
         "itemDataTitle": "Ювелірний набір",
         "itemLink": "https://jewerly7.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw7.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Ювелірний набір 'Жемчуг'(id936)",
-        "itemSalePrice": "599",
-        "itemCurrentPrice": "299",
-        "quantity": 1,
-        "itemId": "936",
-        "itemDataTitle": "Ювелірний набір 'Жемчуг'",
-        "itemLink": "https://jewerly15.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw15.jpg",
         "itemStyle": "block"
       },
       {
@@ -78,28 +67,6 @@
         "itemDataTitle": "Набір прикрас",
         "itemLink": "https://jewerly11.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw11.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Набір прикрас(id955)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "349",
-        "quantity": 1,
-        "itemId": "955",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://finery2.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/finery2.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Набір прикрас(id954)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "329",
-        "quantity": 1,
-        "itemId": "954",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://finery1.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/finery1.jpg",
         "itemStyle": "block"
       },
       {
@@ -144,17 +111,6 @@
         "itemDataTitle": "Набір прикрас",
         "itemLink": "https://nabor7.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor7.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Набір прикрас(id948)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "349",
-        "quantity": 1,
-        "itemId": "948",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://nabor6.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor6.jpg",
         "itemStyle": "block"
       },
       {
@@ -243,17 +199,6 @@
         "itemDataTitle": "Набір прикрас",
         "itemLink": "https://ornaments9.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments9.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Набір прикрас(id990)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "249",
-        "quantity": 1,
-        "itemId": "990",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://ornaments7.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments7.jpg",
         "itemStyle": "block"
       },
       {
@@ -543,17 +488,6 @@
         "itemDataTitle": "Ювелірний набір",
         "itemLink": "https://jewerly12.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw12.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Ювелірний набір(id993)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "349",
-        "quantity": 1,
-        "itemId": "993",
-        "itemDataTitle": "Ювелірний набір",
-        "itemLink": "https://ornaments1.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments1.jpg",
         "itemStyle": "block"
       },
       {
