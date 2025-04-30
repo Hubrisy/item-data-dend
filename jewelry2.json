@@ -61,7 +61,7 @@
       {
         "itemName": "Набір прикрас(id932)",
         "itemSalePrice": "599",
-        "itemCurrentPrice": "299",
+        "itemCurrentPrice": "249",
         "quantity": 1,
         "itemId": "932",
         "itemDataTitle": "Набір прикрас",
@@ -291,16 +291,6 @@
         "itemId": "969",
         "itemDataTitle": "Набір сережек",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/e20.png",
-        "itemStyle": "none"
-      },
-      {
-        "itemName": "Набір сережек(id970)",
-        "itemSalePrice": "299",
-        "itemCurrentPrice": "129",
-        "quantity": 1,
-        "itemId": "970",
-        "itemDataTitle": "Набір сережек",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/e19.png",
         "itemStyle": "none"
       },
       {
