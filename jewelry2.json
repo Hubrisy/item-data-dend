@@ -564,6 +564,23 @@
       }
     ]
   },
+  "WomenBraclet": {
+    "name": "Жіночий браслет",
+    "id": "WomenBraclet",
+    "items": [
+      {
+        "itemName": "Жіночий браслет(id1004)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "249",
+        "quantity": 1,
+        "itemId": "1004",
+        "itemDataTitle": "Жіночий браслет",
+        "sections": "WomenBraclet",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1.jpg",
+        "itemStyle": "none"
+      }
+    ]
+  },
   "WomenClocks": {
     "name": "Жіночий годинник",
     "id": "WomenClocks",
