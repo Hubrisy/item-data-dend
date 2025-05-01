@@ -462,6 +462,55 @@
         "itemDataTitle": "Набір сережек",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/e1.png",
         "itemStyle": "none"
+      }{
+        "itemName": "Набір сережек(id1012)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1012",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/e23.jpg",
+        "itemStyle": "none"
+      },
+      {
+        "itemName": "Набір сережек(id1013)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1013",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/e24.jpg",
+        "itemStyle": "none"
+      },
+      {
+        "itemName": "Набір сережек(id1014)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1014",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/e25.jpg",
+        "itemStyle": "none"
+      },
+      {
+        "itemName": "Набір сережек(id1015)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1015",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/e26.jpg",
+        "itemStyle": "none"
+      },
+      {
+        "itemName": "Набір сережек(id1016)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1016",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/e26.jpg",
+        "itemStyle": "none"
       }
     ]
   },
