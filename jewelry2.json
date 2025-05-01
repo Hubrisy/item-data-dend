@@ -462,7 +462,8 @@
         "itemDataTitle": "Набір сережек",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/e1.png",
         "itemStyle": "none"
-      }{
+      },
+      {
         "itemName": "Набір сережек(id1012)",
         "itemSalePrice": "299",
         "itemCurrentPrice": "149",
