@@ -125,17 +125,6 @@
         "itemStyle": "block"
       },
       {
-        "itemName": "Набір прикрас(id957)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "349",
-        "quantity": 1,
-        "itemId": "957",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://ornaments2.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments2.jpg",
-        "itemStyle": "block"
-      },
-      {
         "itemName": "Набір прикрас(id958)",
         "itemSalePrice": "699",
         "itemCurrentPrice": "349",
@@ -144,39 +133,6 @@
         "itemDataTitle": "Набір прикрас",
         "itemLink": "https://ornaments10.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments10.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Набір прикрас(id959)",
-        "itemSalePrice": "799",
-        "itemCurrentPrice": "389",
-        "quantity": 1,
-        "itemId": "959",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://ornaments5.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments5.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Набір прикрас(id960)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "299",
-        "quantity": 1,
-        "itemId": "960",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://ornaments6.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments6.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Набір прикрас(id962)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "299",
-        "quantity": 1,
-        "itemId": "962",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://ornaments3.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments3.jpg",
         "itemStyle": "block"
       },
       {
