@@ -604,7 +604,7 @@
         "itemId": "1031",
         "itemDataTitle": "Жіночий браслет",
         "sections": "WomenBraclet",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b2.jpg",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b2.png",
         "itemStyle": "none"
       },
       {
@@ -615,7 +615,7 @@
         "itemId": "1032",
         "itemDataTitle": "Жіночий браслет",
         "sections": "WomenBraclet",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b3.jpg",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b3.png",
         "itemStyle": "none"
       },
       {
@@ -626,7 +626,7 @@
         "itemId": "1033",
         "itemDataTitle": "Жіночий браслет",
         "sections": "WomenBraclet",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b4.jpg",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b4.png",
         "itemStyle": "none"
       }
     ]
