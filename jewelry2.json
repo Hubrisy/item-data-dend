@@ -447,6 +447,87 @@
         "itemDataTitle": "Набір сережек",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/e27.jpg",
         "itemStyle": "none"
+      },{
+        "itemName": "Набір сережек(id1023)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1023",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/sg28.png",
+        "itemStyle": "none"
+      },{
+        "itemName": "Набір сережек(id1024)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1024",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/sg29.png",
+        "itemStyle": "none"
+      },{
+        "itemName": "Набір сережек(id1025)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1025",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/sg30.png",
+        "itemStyle": "none"
+      },{
+        "itemName": "Набір сережек(id1026)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1026",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/sg31.png",
+        "itemStyle": "none"
+      },{
+        "itemName": "Набір сережек(id1027)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1027",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/sg32.png",
+        "itemStyle": "none"
+      },{
+        "itemName": "Набір сережек(id1028)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1028",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/sg33.png",
+        "itemStyle": "none"
+      },{
+        "itemName": "Набір сережек(id1029)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1029",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/sg34.png",
+        "itemStyle": "none"
+      },{
+        "itemName": "Набір сережек(id1030)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1030",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/sg35.png",
+        "itemStyle": "none"
+      },{
+        "itemName": "Набір сережек(id1035)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1035",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/sg36.png",
+        "itemStyle": "none"
       }
     ]
   },
@@ -513,6 +594,39 @@
         "itemDataTitle": "Жіночий браслет",
         "sections": "WomenBraclet",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1.jpg",
+        "itemStyle": "none"
+      },
+      {
+        "itemName": "Жіночий браслет(id1031)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "249",
+        "quantity": 1,
+        "itemId": "1031",
+        "itemDataTitle": "Жіночий браслет",
+        "sections": "WomenBraclet",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b2.jpg",
+        "itemStyle": "none"
+      },
+      {
+        "itemName": "Жіночий браслет(id1032)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "249",
+        "quantity": 1,
+        "itemId": "1032",
+        "itemDataTitle": "Жіночий браслет",
+        "sections": "WomenBraclet",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b3.jpg",
+        "itemStyle": "none"
+      },
+      {
+        "itemName": "Жіночий браслет(id1033)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "249",
+        "quantity": 1,
+        "itemId": "1033",
+        "itemDataTitle": "Жіночий браслет",
+        "sections": "WomenBraclet",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b4.jpg",
         "itemStyle": "none"
       }
     ]
