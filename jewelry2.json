@@ -222,17 +222,6 @@
         "itemLink": "https://accessories1.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/accessories1.jpg",
         "itemStyle": "block"
-      },
-      {
-        "itemName": "Ювелірний набір(id996)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "329",
-        "quantity": 1,
-        "itemId": "996",
-        "itemDataTitle": "Ювелірний набір",
-        "itemLink": "https://accessories2.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/accessories2.jpg",
-        "itemStyle": "block"
       }
     ]
   },
