@@ -307,26 +307,6 @@
         "itemStyle": "block"
       },
       {
-        "itemName": "Набір сережек(id968)",
-        "itemSalePrice": "299",
-        "itemCurrentPrice": "129",
-        "quantity": 1,
-        "itemId": "968",
-        "itemDataTitle": "Набір сережек",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/e21.png",
-        "itemStyle": "none"
-      },
-      {
-        "itemName": "Набір сережек(id969)",
-        "itemSalePrice": "299",
-        "itemCurrentPrice": "129",
-        "quantity": 1,
-        "itemId": "969",
-        "itemDataTitle": "Набір сережек",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/e20.png",
-        "itemStyle": "none"
-      },
-      {
         "itemName": "Набір сережек(id972)",
         "itemSalePrice": "299",
         "itemCurrentPrice": "129",
