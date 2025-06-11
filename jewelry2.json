@@ -306,6 +306,16 @@
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw5.jpg",
         "itemStyle": "block"
       },
+       {
+        "itemName": "Набір сережек(id967)",
+        "itemSalePrice": "299",
+        "itemCurrentPrice": "129",
+        "quantity": 1,
+        "itemId": "967",
+        "itemDataTitle": "Набір сережек",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/e22.png",
+        "itemStyle": "none"
+      },
       {
         "itemName": "Набір сережек(id968)",
         "itemSalePrice": "299",
