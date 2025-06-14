@@ -826,24 +826,6 @@
       }
     ]
   },
-  "WomenClocks": {
-    "name": "Жіночий годинник",
-    "id": "WomenClocks",
-    "items": [
-      {
-        "itemName": "Жіночий годинник(id947)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "449",
-        "quantity": 1,
-        "itemId": "947",
-        "itemDataTitle": "Жіночий годинник",
-        "sections": "WomenClocks",
-        "itemLink": "https://clocks1.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/clocks1.jpg",
-        "itemStyle": "block"
-      }
-    ]
-  },
   "MenJWSet": {
     "name": "Чоловічий ювелірний набір(id944)",
     "id": "MenJWSet",
