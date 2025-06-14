@@ -4,17 +4,6 @@
     "id": "WomenJWSet",
     "items": [
       {
-        "itemName": "Ювелірний набір кільце + сережки(id912)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "399",
-        "quantity": 1,
-        "itemId": "912",
-        "itemDataTitle": "Ювелірний набір кільце + сережки",
-        "itemLink": "https://dop2comp.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1.png",
-        "itemStyle": "block"
-      },
-      {
         "itemName": "Ювелірний набір жіночий браслет та цепочка + хрест в подарунок(id803)",
         "itemSalePrice": "699",
         "itemCurrentPrice": "449",
@@ -213,6 +202,17 @@
         "itemStyle": "block"
       },
       {
+        "itemName": "Набір прикрас(id1038)",
+        "itemSalePrice": "999",
+        "itemCurrentPrice": "399",
+        "quantity": 1,
+        "itemId": "1038",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://acs3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/acs3.jpg",
+        "itemStyle": "block"
+      },
+      {
         "itemName": "Набір прикрас(id961)",
         "itemSalePrice": "799",
         "itemCurrentPrice": "399",
@@ -223,7 +223,7 @@
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/finery3.jpg",
         "itemStyle": "block"
       },
-       {
+      {
         "itemName": "Набір прикрас(id957)",
         "itemSalePrice": "699",
         "itemCurrentPrice": "349",
@@ -234,7 +234,7 @@
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments2.jpg",
         "itemStyle": "block"
       },
-         {
+      {
         "itemName": "Набір прикрас(id960)",
         "itemSalePrice": "699",
         "itemCurrentPrice": "299",
@@ -306,7 +306,7 @@
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw5.jpg",
         "itemStyle": "block"
       },
-       {
+      {
         "itemName": "Набір сережек(id967)",
         "itemSalePrice": "299",
         "itemCurrentPrice": "129",
@@ -765,6 +765,45 @@
         "itemDataTitle": "Жіночий браслет",
         "sections": "WomenBraclet",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b4.png",
+        "itemStyle": "none"
+      },
+      {
+        "itemName": "Жіночий браслет(id1061)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "249",
+        "quantity": 1,
+        "itemId": "1061",
+        "itemDataTitle": "Жіночий браслет",
+        "sections": "WomenBraclet",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b4silver.jpg",
+        "itemStyle": "none"
+      }
+    ]
+  },
+  "WomenRings": {
+    "name": "Жіноча каблучка",
+    "id": "WomenRings",
+    "items": [
+      {
+        "itemName": "Жіноча каблучка(id1062)",
+        "itemSalePrice": "399",
+        "itemCurrentPrice": "199",
+        "quantity": 1,
+        "itemId": "1062",
+        "itemDataTitle": "Жіноча каблучка",
+        "sections": "WomenRings",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ring1.jpg",
+        "itemStyle": "none"
+      },
+      {
+        "itemName": "Жіноча каблучка(id1063)",
+        "itemSalePrice": "349",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1063",
+        "itemDataTitle": "Жіноча каблучка",
+        "sections": "WomenRings",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ring2.jpg",
         "itemStyle": "none"
       }
     ]
