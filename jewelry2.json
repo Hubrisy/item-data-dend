@@ -158,28 +158,6 @@
         "itemStyle": "block"
       },
       {
-        "itemName": "Набір прикрас(id994)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "249",
-        "quantity": 1,
-        "itemId": "994",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://ornaments11.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments11.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Набір прикрас(id992)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "349",
-        "quantity": 1,
-        "itemId": "992",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://ornaments9.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments9.jpg",
-        "itemStyle": "block"
-      },
-      {
         "itemName": "Набір прикрас(id959)",
         "itemSalePrice": "799",
         "itemCurrentPrice": "389",
