@@ -1,0 +1,63 @@
+{
+  "WomenJWSet": {
+    "name": "Жіночий ювелірний набір",
+    "id": "WomenJWSet",
+    "items": [
+      {
+        "itemName": "Алмазний малюнок(1045)",
+        "itemSalePrice": "799",
+        "itemCurrentPrice": "399",
+        "quantity": 1,
+        "itemId": "1045",
+        "itemDataTitle": "Алмазний малюнок",
+        "itemLink": "https://paint3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/paints/paint1.png",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Алмазний малюнок(1051)",
+        "itemSalePrice": "799",
+        "itemCurrentPrice": "399",
+        "quantity": 1,
+        "itemId": "1051",
+        "itemDataTitle": "Алмазний малюнок",
+        "itemLink": "https://paint6.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/paints/paint2.png",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Алмазний малюнок(1050)",
+        "itemSalePrice": "799",
+        "itemCurrentPrice": "399",
+        "quantity": 1,
+        "itemId": "1050",
+        "itemDataTitle": "Алмазний малюнок",
+        "itemLink": "https://paint5.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/paints/paint3.png",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Алмазний малюнок(1044)",
+        "itemSalePrice": "799",
+        "itemCurrentPrice": "399",
+        "quantity": 1,
+        "itemId": "1044",
+        "itemDataTitle": "Алмазний малюнок",
+        "itemLink": "https://paint2.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/paints/paint4.png",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Алмазний малюнок(1006)",
+        "itemSalePrice": "799",
+        "itemCurrentPrice": "349",
+        "quantity": 1,
+        "itemId": "1006",
+        "itemDataTitle": "Алмазний малюнок",
+        "itemLink": "https://accesseroies6.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/paints/paint5.png",
+        "itemStyle": "block"
+      }
+    ]
+  }
+}
