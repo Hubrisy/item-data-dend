@@ -230,17 +230,6 @@
         "itemStyle": "block"
       },
       {
-        "itemName": "Набір сережек 'Версаль'(id930)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "249",
-        "quantity": 1,
-        "itemId": "930",
-        "itemDataTitle": "Набір сережек 'Версаль'",
-        "itemLink": "https://jewerly9.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw8.jpg",
-        "itemStyle": "block"
-      },
-      {
         "itemName": "Набір сережек(id970)",
         "itemSalePrice": "299",
         "itemCurrentPrice": "129",
@@ -501,17 +490,6 @@
         "itemDataTitle": "Ювелірний набір",
         "itemLink": "https://acs2.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/acs2.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Жіноча підвіска(id1019)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "299",
-        "quantity": 1,
-        "itemId": "1019",
-        "itemDataTitle": "Ювелірний набір",
-        "itemLink": "https://accessories10.dinowaw.site",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/accessories10.jpg",
         "itemStyle": "block"
       }
     ]
