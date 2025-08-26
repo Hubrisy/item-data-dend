@@ -57,6 +57,39 @@
         "itemLink": "https://accesseroies6.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/paints/paint5.png",
         "itemStyle": "block"
+      },
+      {
+        "itemName": "Алмазний малюнок(1114)",
+        "itemSalePrice": "1199",
+        "itemCurrentPrice": "599",
+        "quantity": 1,
+        "itemId": "1114",
+        "itemDataTitle": "Алмазний малюнок",
+        "itemLink": "https://icon3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/paints/i1114.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Алмазний малюнок(1083)",
+        "itemSalePrice": "799",
+        "itemCurrentPrice": "399",
+        "quantity": 1,
+        "itemId": "1083",
+        "itemDataTitle": "Алмазний малюнок",
+        "itemLink": "https://paint11.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/paints/i1083.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Алмазний малюнок(1113)",
+        "itemSalePrice": "1199",
+        "itemCurrentPrice": "599",
+        "quantity": 1,
+        "itemId": "1113",
+        "itemDataTitle": "Алмазний малюнок",
+        "itemLink": "https://icon4.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/paints/i1113.jpg",
+        "itemStyle": "block"
       }
     ]
   }
