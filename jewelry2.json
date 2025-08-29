@@ -612,13 +612,13 @@
       {
         "itemName": "Жіноча підвіска(id1068)",
         "itemSalePrice": "699",
-        "itemCurrentPrice": "399",
+        "itemCurrentPrice": "249",
         "quantity": 1,
         "itemId": "1068",
         "itemDataTitle": "Ювелірний набір",
         "itemLink": "https://jw8.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor1068.jpg",
-        "itemStyle": "block"
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor1068remake.jpg",
+        "itemStyle": "none"
       },
       {
         "itemName": "Ювелірний набір(id933)",
