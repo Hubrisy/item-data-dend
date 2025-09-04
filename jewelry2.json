@@ -4,17 +4,6 @@
     "id": "WomenJWSet",
     "items": [
       {
-        "itemName": "Ювелірний набір(id1094)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "449",
-        "quantity": 1,
-        "itemId": "1094",
-        "itemDataTitle": "Ювелірний набір кільце + сережки",
-        "itemLink": "https://clocks6.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor1094.jpg",
-        "itemStyle": "block"
-      },
-      {
         "itemName": "Ювелірний набір жіночий браслет та цепочка + хрест в подарунок(id803)",
         "itemSalePrice": "699",
         "itemCurrentPrice": "399",
@@ -233,16 +222,6 @@
         "itemLink": "https://decor1.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/decor1.jpg",
         "itemStyle": "block"
-      },
-      {
-        "itemName": "Ювелірний набір(id1132)",
-        "itemSalePrice": "499",
-        "itemCurrentPrice": "199",
-        "quantity": 1,
-        "itemId": "1132",
-        "itemDataTitle": "Ювелірний набір",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor1132.jpg",
-        "itemStyle": "none"
       },
       {
         "itemName": "Ювелірний набір(id1133)",
