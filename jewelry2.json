@@ -680,6 +680,28 @@
     "id": "MenJWSet",
     "items": [
       {
+        "itemName": "Чоловіча підвіска(id1126)",
+        "itemSalePrice": "999",
+        "itemCurrentPrice": "599",
+        "quantity": 1,
+        "itemId": "1126",
+        "itemDataTitle": "Чоловіча підвіска",
+        "itemLink": "https://manjw4.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1126.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Чоловіча підвіска(id1125)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "399",
+        "quantity": 1,
+        "itemId": "1125",
+        "itemDataTitle": "Чоловіча підвіска",
+        "itemLink": "https://manjw3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1125.jpg",
+        "itemStyle": "block"
+      },
+      {
         "itemName": "Чоловічий хрест(id1103)",
         "itemSalePrice": "999",
         "itemCurrentPrice": "599",
