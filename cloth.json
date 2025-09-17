@@ -1,0 +1,75 @@
+{
+  "WomenNightwear": {
+    "name": "Жіноча піжама",
+    "id": "WomenNightwear",
+    "items": [
+      {
+        "itemName": "Жіноча піжамка з ведмедиками(id1108)",
+        "itemSalePrice": "999",
+        "itemCurrentPrice": "669",
+        "quantity": 1,
+        "itemId": "1108",
+        "itemDataTitle": "Жіноча піжамка з ведмедиками",
+        "itemLink": "https://cloth5.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/cloth5.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча піжамка леопардова(id1107)",
+        "itemSalePrice": "999",
+        "itemCurrentPrice": "699",
+        "quantity": 1,
+        "itemId": "1107",
+        "itemDataTitle": "Жіноча піжамка леопардова",
+        "itemLink": "https://cloth4.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/cloth4.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча піжамка з ведмедиками(id1100)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "499",
+        "quantity": 1,
+        "itemId": "1100",
+        "itemDataTitle": "Жіноча піжамка з ведмедиками",
+        "itemLink": "https://cloth2.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/cloth2.jpg",
+        "itemStyle": "block"
+      }
+    ]
+  },
+  "WomenUnderwear": {
+    "name": "Жіноча білизна",
+    "id": "WomenUnderwear",
+    "items": [
+      {
+        "itemName": "Трусики жіночі(id1111)",
+        "itemSalePrice": "999",
+        "itemCurrentPrice": "559",
+        "quantity": 1,
+        "itemId": "1111",
+        "itemDataTitle": "Набір сережек",
+        "itemLink": "https://cloth6.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/cloth6.jpg",
+        "itemStyle": "block"
+      }
+    ]
+  },
+  "Caps": {
+    "name": "Головні убори",
+    "id": "Caps",
+    "items": [
+      {
+        "itemName": "Кепка вінтажна(id1095)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "335",
+        "quantity": 1,
+        "itemId": "1095",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://cap2.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/cap2.jpg",
+        "itemStyle": "block"
+      }
+    ]
+  }
+}
