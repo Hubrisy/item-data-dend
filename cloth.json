@@ -4,6 +4,28 @@
     "id": "WomenNightwear",
     "items": [
       {
+        "itemName": "Жіночий піжамний набір(id1147)",
+        "itemSalePrice": "1399",
+        "itemCurrentPrice": "799",
+        "quantity": 1,
+        "itemId": "1147",
+        "itemDataTitle": "Жіночий піжамний набір",
+        "itemLink": "https://nightwear8.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/cloth/cloth1147.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча піжамка(id1146)",
+        "itemSalePrice": "999",
+        "itemCurrentPrice": "499",
+        "quantity": 1,
+        "itemId": "1146",
+        "itemDataTitle": "Жіноча піжамка",
+        "itemLink": "https://nightwear7.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/cloth/cloth1146.jpg",
+        "itemStyle": "block"
+      },
+      {
         "itemName": "Жіноча піжамка з ведмедиками(id1108)",
         "itemSalePrice": "999",
         "itemCurrentPrice": "669",
