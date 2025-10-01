@@ -669,6 +669,28 @@
     "id": "MenJWSet",
     "items": [
       {
+        "itemName": "Чоловіча підвіска(id1141)",
+        "itemSalePrice": "899",
+        "itemCurrentPrice": "499",
+        "quantity": 1,
+        "itemId": "1141",
+        "itemDataTitle": "Чоловіча підвіска",
+        "itemLink": "https://manacs3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1141.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Чоловіча підвіска(id1143)",
+        "itemSalePrice": "599",
+        "itemCurrentPrice": "299",
+        "quantity": 1,
+        "itemId": "1143",
+        "itemDataTitle": "Чоловіча підвіска",
+        "itemLink": "https://manacs2.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1143.jpg",
+        "itemStyle": "block"
+      },
+      {
         "itemName": "Чоловіча підвіска(id1126)",
         "itemSalePrice": "999",
         "itemCurrentPrice": "599",
