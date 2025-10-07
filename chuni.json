@@ -315,7 +315,7 @@
         "itemDataTitle": "Жилетка батали 62 розмір Темні олені(id1175)",
         "itemLink": "https://waistcoat9.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/chuni/wwhite1175.jpg",
-        "itemStyle": "block"
+        "itemStyle": "none"
       },
       {
         "itemName": "Жилетка батали 62 розмір Орнамент(id1175)",
@@ -326,7 +326,7 @@
         "itemDataTitle": "Жилетка батали 62 розмір Орнамент(id1175)",
         "itemLink": "https://waistcoat9.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/chuni/wornament1175.jpg",
-        "itemStyle": "block"
+        "itemStyle": "none"
       },
       {
         "itemName": "Жилетка батали 62 розмір Коричнева(id1176)",
@@ -337,7 +337,7 @@
         "itemDataTitle": "Жилетка батали 62 розмір Коричнева(id1176)",
         "itemLink": "https://waistcoat10.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/chuni/wbrown1176.jpg",
-        "itemStyle": "block"
+        "itemStyle": "none"
       },
       {
         "itemName": "Жилетка батали 62 розмір Сіра(id1176)",
@@ -348,7 +348,7 @@
         "itemDataTitle": "Жилетка батали 62 розмір Сіра(id1176)",
         "itemLink": "https://waistcoat10.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/chuni/wgrey1176.jpg",
-        "itemStyle": "block"
+        "itemStyle": "none"
       }
     ]
   },
