@@ -809,17 +809,6 @@
         "itemStyle": "block"
       },
       {
-        "itemName": "Чоловіча підвіска(id1143)",
-        "itemSalePrice": "599",
-        "itemCurrentPrice": "299",
-        "quantity": 1,
-        "itemId": "1143",
-        "itemDataTitle": "Чоловіча підвіска",
-        "itemLink": "https://manacs2.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1143.jpg",
-        "itemStyle": "block"
-      },
-      {
         "itemName": "Чоловіча підвіска(id1126)",
         "itemSalePrice": "999",
         "itemCurrentPrice": "599",
@@ -930,7 +919,7 @@
         "itemStyle": "block"
       },
       {
-        "itemName": "Чоловічий набір браслет + ланцюжок(id1075)",
+        "itemName": "Чоловічий набір(id1075)",
         "itemSalePrice": "999",
         "itemCurrentPrice": "599",
         "quantity": 1,
