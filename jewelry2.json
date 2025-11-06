@@ -146,17 +146,6 @@
         "itemStyle": "block"
       },
       {
-        "itemName": "Набір прикрас(id958)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "349",
-        "quantity": 1,
-        "itemId": "958",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://ornaments10.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/ornaments10.jpg",
-        "itemStyle": "block"
-      },
-      {
         "itemName": "Набір прикрас(id959)",
         "itemSalePrice": "799",
         "itemCurrentPrice": "389",
@@ -458,16 +447,6 @@
         "itemStyle": "none"
       },
       {
-        "itemName": "Набір сережек(id1023)",
-        "itemSalePrice": "299",
-        "itemCurrentPrice": "149",
-        "quantity": 1,
-        "itemId": "1023",
-        "itemDataTitle": "Набір сережек",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/sg28.png",
-        "itemStyle": "none"
-      },
-      {
         "itemName": "Набір сережек(id1024)",
         "itemSalePrice": "299",
         "itemCurrentPrice": "149",
@@ -565,16 +544,6 @@
         "itemLink": "https://decor9.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor1119.jpg",
         "itemStyle": "block"
-      },
-      {
-        "itemName": "Ювелірний набір(id1132)",
-        "itemSalePrice": "499",
-        "itemCurrentPrice": "199",
-        "quantity": 1,
-        "itemId": "1132",
-        "itemDataTitle": "Ювелірний набір",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor1132.jpg",
-        "itemStyle": "none"
       },
        {
         "itemName": "Жіноча підвіска(id1057)",
@@ -742,17 +711,6 @@
         "itemStyle": "none"
       },
       {
-        "itemName": "Жіночий браслет(id1032)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "249",
-        "quantity": 1,
-        "itemId": "1032",
-        "itemDataTitle": "Жіночий браслет",
-        "sections": "WomenBraclet",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b3.png",
-        "itemStyle": "none"
-      },
-      {
         "itemName": "Жіночий браслет(id1061)",
         "itemSalePrice": "699",
         "itemCurrentPrice": "249",
@@ -787,17 +745,6 @@
     "id": "MenJWSet",
     "items": [
       {
-        "itemName": "Чоловіча підвіска(id1153)",
-        "itemSalePrice": "1580",
-        "itemCurrentPrice": "790",
-        "quantity": 1,
-        "itemId": "1153",
-        "itemDataTitle": "Чоловіча підвіска",
-        "itemLink": "https://manacs6.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor1153.jpg",
-        "itemStyle": "block"
-      },
-      {
         "itemName": "Чоловіча підвіска(id1141)",
         "itemSalePrice": "899",
         "itemCurrentPrice": "499",
@@ -806,17 +753,6 @@
         "itemDataTitle": "Чоловіча підвіска",
         "itemLink": "https://manacs3.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1141.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Чоловіча підвіска(id1126)",
-        "itemSalePrice": "999",
-        "itemCurrentPrice": "599",
-        "quantity": 1,
-        "itemId": "1126",
-        "itemDataTitle": "Чоловіча підвіска",
-        "itemLink": "https://manjw4.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1126.jpg",
         "itemStyle": "block"
       },
       {
