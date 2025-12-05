@@ -1,0 +1,124 @@
+{
+  "ForAuto": {
+    "name": "Для авто",
+    "id": "Auto",
+    "items": [
+      {
+        "itemName": "Універсальні автомобільні світлодіодні DRL(1220 id)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "449",
+        "quantity": 1,
+        "itemId": "1220",
+        "itemDataTitle": "Універсальні автомобільні світлодіодні DRL(1220 id)",
+        "itemLink": "https://forauto7.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/auto/auto1220.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Самоклеюча Карбонова Плівка(1203 id)",
+        "itemSalePrice": "799",
+        "itemCurrentPrice": "499",
+        "quantity": 1,
+        "itemId": "1203",
+        "itemDataTitle": "Самоклеюча Карбонова Плівка(1203 id)",
+        "itemLink": "https://forauto3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/auto/auto1203.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Нано-Керамічний Покриття Спрей(1202 id)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "349",
+        "quantity": 1,
+        "itemId": "1202",
+        "itemDataTitle": "Нано-Керамічний Покриття Спрей(1202 id)",
+        "itemLink": "https://forauto2.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/auto/auto1202.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Спрей проти запотівання для автомобільних вікон(1201 id)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "349",
+        "quantity": 1,
+        "itemId": "1201",
+        "itemDataTitle": "Універсальні автомобільні світлодіодні DRL(1201 id)",
+        "itemLink": "https://forauto1.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/auto/auto1201.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Декоративні світлодіодні лампи(1074 id)",
+        "itemSalePrice": "999",
+        "itemCurrentPrice": "699",
+        "quantity": 1,
+        "itemId": "1074",
+        "itemDataTitle": "Декоративні світлодіодні лампи(1074 id)",
+        "itemLink": "https://tech2.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/auto/auto1074.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Подвійна камера для авто(1073 id)",
+        "itemSalePrice": "1599",
+        "itemCurrentPrice": "899",
+        "quantity": 1,
+        "itemId": "1073",
+        "itemDataTitle": "Подвійна камера для авто(1073 id)",
+        "itemLink": "https://tech1.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/auto/auto1073.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Автомобільний ароматизатор «Зоряне небо»(1077 id)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "399",
+        "quantity": 1,
+        "itemId": "1077",
+        "itemDataTitle": "Автомобільний ароматизатор «Зоряне небо»(1077 id)",
+        "itemLink": "https://tech3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/auto/auto1077.jpg",
+        "itemStyle": "block"
+      }
+    ]
+  },
+  "Tech": {
+    "name": "Техніка",
+    "id": "Tech",
+    "items": [
+      {
+        "itemName": "Триммер(1149 id)",
+        "itemSalePrice": "799",
+        "itemCurrentPrice": "349",
+        "quantity": 1,
+        "itemId": "1149",
+        "itemDataTitle": "Триммер(1149 id)",
+        "itemLink": "https://mech2.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/auto/auto1149.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Ендоскоп(1136 id)",
+        "itemSalePrice": "2299",
+        "itemCurrentPrice": "1299",
+        "quantity": 1,
+        "itemId": "1136",
+        "itemDataTitle": "Ендоскоп(1136 id)",
+        "itemLink": "https://tech11.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/auto/auto1136.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Алкотестер(1091 id)",
+        "itemSalePrice": "999",
+        "itemCurrentPrice": "649",
+        "quantity": 1,
+        "itemId": "1091",
+        "itemDataTitle": "Алкотестер(1091 id)",
+        "itemLink": "https://tech5.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/auto/auto1091.jpg",
+        "itemStyle": "block"
+      }
+    ]
+  }
+}
