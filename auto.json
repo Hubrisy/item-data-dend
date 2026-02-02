@@ -98,17 +98,6 @@
         "itemStyle": "block"
       },
       {
-        "itemName": "Ендоскоп(1136 id)",
-        "itemSalePrice": "2299",
-        "itemCurrentPrice": "1299",
-        "quantity": 1,
-        "itemId": "1136",
-        "itemDataTitle": "Ендоскоп(1136 id)",
-        "itemLink": "https://tech11.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/auto/auto1136.jpg",
-        "itemStyle": "block"
-      },
-      {
         "itemName": "Алкотестер(1091 id)",
         "itemSalePrice": "999",
         "itemCurrentPrice": "649",
