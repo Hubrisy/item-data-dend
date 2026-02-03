@@ -388,11 +388,22 @@
     "id": "WomenNecklace",
     "items": [
       {
+        "itemName": "Ювелірний набір(id1229)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "499",
+        "quantity": 1,
+        "itemId": "1229",
+        "itemDataTitle": "Ювелірний набір(id1244)",
+        "itemLink": "https://trinkets5.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/t1229.jpg",
+        "itemStyle": "block"
+      },
+      {
         "itemName": "Богемне намисто(id1244)",
         "itemSalePrice": "699",
         "itemCurrentPrice": "369",
         "quantity": 1,
-        "itemId": "1244)"",
+        "itemId": "1244",
         "itemDataTitle": "Богемне намисто(id1244)",
         "itemLink": "https://trinkets8.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/t1244b.jpg",
@@ -403,7 +414,7 @@
         "itemSalePrice": "699",
         "itemCurrentPrice": "369",
         "quantity": 1,
-        "itemId": "1244)"",
+        "itemId": "1244",
         "itemDataTitle": "Богемне намисто(id1244)",
         "itemLink": "https://trinkets8.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/t1244black.jpg",
@@ -414,7 +425,7 @@
         "itemSalePrice": "699",
         "itemCurrentPrice": "369",
         "quantity": 1,
-        "itemId": "1244)"",
+        "itemId": "1244",
         "itemDataTitle": "Богемне намисто(id1244)",
         "itemLink": "https://trinkets8.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/t1244g.jpg",
@@ -570,6 +581,28 @@
     "name": "Чоловічі ювелірні набори",
     "id": "MenJWSet",
     "items": [
+      {
+        "itemName": "Чоловіча підвіска(id1209)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "349",
+        "quantity": 1,
+        "itemId": "1209",
+        "itemDataTitle": "Чоловіча підвіска",
+        "itemLink": "https://manjw11.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/m1209.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Чоловіча підвіска(id1212)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "349",
+        "quantity": 1,
+        "itemId": "1212",
+        "itemDataTitle": "Чоловіча підвіска",
+        "itemLink": "https://manacs7.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/m1212.jpg",
+        "itemStyle": "block"
+      },
       {
         "itemName": "Чоловіча підвіска(id1125)",
         "itemSalePrice": "699",
