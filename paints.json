@@ -46,6 +46,17 @@
         "itemLink": "https://icon4.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/paints/i1113.jpg",
         "itemStyle": "block"
+      },
+      {
+        "itemName": "Лампадка(1226)",
+        "itemSalePrice": "799",
+        "itemCurrentPrice": "479",
+        "quantity": 1,
+        "itemId": "1226",
+        "itemDataTitle": "Лампадка",
+        "itemLink": "https://lampadka.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/paints/l1226.jpg",
+        "itemStyle": "block"
       }
     ]
   }
