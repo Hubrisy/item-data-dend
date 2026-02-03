@@ -4,6 +4,17 @@
     "id": "Auto",
     "items": [
       {
+        "itemName": "Накидка на сидіння(1237 id)",
+        "itemSalePrice": "599",
+        "itemCurrentPrice": "349",
+        "quantity": 1,
+        "itemId": "1237",
+        "itemDataTitle": "Накидка на сидіння(1237 id)",
+        "itemLink": "https://autoacs1.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/auto/a1237.jpg",
+        "itemStyle": "block"
+      },
+      {
         "itemName": "Універсальні автомобільні світлодіодні DRL(1220 id)",
         "itemSalePrice": "699",
         "itemCurrentPrice": "449",
