@@ -388,6 +388,39 @@
     "id": "WomenNecklace",
     "items": [
       {
+        "itemName": "Богемне намисто(id1244)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "369",
+        "quantity": 1,
+        "itemId": "1244)"",
+        "itemDataTitle": "Богемне намисто(id1244)",
+        "itemLink": "https://trinkets8.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/t1244b.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Богемне намисто(id1244)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "369",
+        "quantity": 1,
+        "itemId": "1244)"",
+        "itemDataTitle": "Богемне намисто(id1244)",
+        "itemLink": "https://trinkets8.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/t1244black.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Богемне намисто(id1244)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "369",
+        "quantity": 1,
+        "itemId": "1244)"",
+        "itemDataTitle": "Богемне намисто(id1244)",
+        "itemLink": "https://trinkets8.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/t1244g.jpg",
+        "itemStyle": "block"
+      },
+      {
         "itemName": "Жіноча підвіска(id1119)",
         "itemSalePrice": "399",
         "itemCurrentPrice": "199",
