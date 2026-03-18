@@ -377,6 +377,127 @@
     "id": "WomenNecklace",
     "items": [
       {
+        "itemName": "Жіноча підвіска(id1249)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "499",
+        "quantity": 1,
+        "itemId": "1249",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://adornments1.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/adm1.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1250)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "299",
+        "quantity": 1,
+        "itemId": "1250",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://adornments2.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/adm2.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1257)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "299",
+        "quantity": 1,
+        "itemId": "1257",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://adornments7.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/adm7.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1258)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "299",
+        "quantity": 1,
+        "itemId": "1258",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://adornments8.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/adm8.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1259)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "279",
+        "quantity": 1,
+        "itemId": "1259",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://adornments9.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/adm9.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1262)",
+        "itemSalePrice": "599",
+        "itemCurrentPrice": "399",
+        "quantity": 1,
+        "itemId": "1262",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://gems2.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/gems2.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1263)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "299",
+        "quantity": 1,
+        "itemId": "1263",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://gems3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/gems3.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1275)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "499",
+        "quantity": 1,
+        "itemId": "1275",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://gems8.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/gems8pink.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1275)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "499",
+        "quantity": 1,
+        "itemId": "1275",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://gems8.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/gems8tiger.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1278)",
+        "itemSalePrice": "599",
+        "itemCurrentPrice": "299",
+        "quantity": 1,
+        "itemId": "1278",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://gems9.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/gems9.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1280)",
+        "itemSalePrice": "599",
+        "itemCurrentPrice": "299",
+        "quantity": 1,
+        "itemId": "1280",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://gems11.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/gems11.jpg",
+        "itemStyle": "block"
+      },
+      {
         "itemName": "Ювелірний набір(id1229)",
         "itemSalePrice": "699",
         "itemCurrentPrice": "499",
@@ -520,6 +641,28 @@
     "name": "Чоловічі ювелірні набори",
     "id": "MenJWSet",
     "items": [
+      {
+        "itemName": "Чоловіча підвіска(id1251)",
+        "itemSalePrice": "599",
+        "itemCurrentPrice": "349",
+        "quantity": 1,
+        "itemId": "1251",
+        "itemDataTitle": "Чоловіча підвіска",
+        "itemLink": "https://acsforman1.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/acf1.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Чоловіча підвіска(id1274)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "299",
+        "quantity": 1,
+        "itemId": "1274",
+        "itemDataTitle": "Чоловіча підвіска",
+        "itemLink": "https://acsforman4.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/acf4.jpg",
+        "itemStyle": "block"
+      },
       {
         "itemName": "Чоловіча підвіска(id1209)",
         "itemSalePrice": "499",
