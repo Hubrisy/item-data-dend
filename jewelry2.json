@@ -4,16 +4,6 @@
     "id": "WomenJWSet",
     "items": [
       {
-        "itemName": "Ювелірний набір(id1156)",
-        "itemSalePrice": "799",
-        "itemCurrentPrice": "449",
-        "quantity": 1,
-        "itemId": "1156",
-        "itemDataTitle": "Ювелірний набір",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor1156(remake).jpg",
-        "itemStyle": "none"
-      },
-      {
         "itemName": "Ювелірний набір жіночий браслет та цепочка + хрест в подарунок(id803)",
         "itemSalePrice": "699",
         "itemCurrentPrice": "449",
@@ -33,17 +23,6 @@
         "itemDataTitle": "Ювелірний набір",
         "itemLink": "https://jewerly7.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw7.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Набір прикрас(id948)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "349",
-        "quantity": 1,
-        "itemId": "948",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://nabor6.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor6.jpg",
         "itemStyle": "block"
       },
       {
@@ -435,17 +414,6 @@
         "itemDataTitle": "Ювелірний набір",
         "itemLink": "https://adornments7.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/adm7.jpg",
-        "itemStyle": "block"
-      },
-      {
-        "itemName": "Жіноча підвіска(id1258)",
-        "itemSalePrice": "499",
-        "itemCurrentPrice": "299",
-        "quantity": 1,
-        "itemId": "1258",
-        "itemDataTitle": "Ювелірний набір",
-        "itemLink": "https://adornments8.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/adm8.jpg",
         "itemStyle": "block"
       },
       {
