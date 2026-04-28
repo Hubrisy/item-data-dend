@@ -384,6 +384,61 @@
     "id": "WomenNecklace",
     "items": [
       {
+        "itemName": "Жіноча підвіска(id1304)",
+        "itemSalePrice": "599",
+        "itemCurrentPrice": "369",
+        "quantity": 1,
+        "itemId": "1304",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://jewellery11.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jewellery1304.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1299)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "299",
+        "quantity": 1,
+        "itemId": "1299",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://jewellery6.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jewellery1299.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1298)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "299",
+        "quantity": 1,
+        "itemId": "1298",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://jewellery5.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jewellery1298.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1296)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "299",
+        "quantity": 1,
+        "itemId": "1296",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://jewelllery4.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jewellery1296.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Жіноча підвіска(id1295)",
+        "itemSalePrice": "499",
+        "itemCurrentPrice": "299",
+        "quantity": 1,
+        "itemId": "1295",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://jewellery3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jewellery1295.jpg",
+        "itemStyle": "block"
+      },
+      {
         "itemName": "Жіноча підвіска(id1249)",
         "itemSalePrice": "699",
         "itemCurrentPrice": "499",
