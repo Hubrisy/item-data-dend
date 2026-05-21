@@ -4,6 +4,50 @@
     "id": "WomenJWSet",
     "items": [
       {
+        "itemName": "Ювелірний набір(id1316)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "369",
+        "quantity": 1,
+        "itemId": "1316",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://treasure12.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1316.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Ювелірний набір(id1317)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "369",
+        "quantity": 1,
+        "itemId": "1317",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://treasure11.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1317.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Ювелірний набір(id1318)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "369",
+        "quantity": 1,
+        "itemId": "1318",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://finery8.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1318.jpg",
+        "itemStyle": "block"
+      },
+      {
+        "itemName": "Ювелірний набір(id1320)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "349",
+        "quantity": 1,
+        "itemId": "1320",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://finery10.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1320.jpg",
+        "itemStyle": "block"
+      },
+      {
         "itemName": "Ювелірний набір жіночий браслет та цепочка + хрест в подарунок(id803)",
         "itemSalePrice": "699",
         "itemCurrentPrice": "449",
