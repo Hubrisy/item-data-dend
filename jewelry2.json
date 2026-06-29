@@ -189,7 +189,7 @@
                 "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/sg55.jpg",
                 "itemStyle": "none"
             },
-             {
+            {
                 "itemName": "Набір сережек(id1357)",
                 "itemSalePrice": "299",
                 "itemCurrentPrice": "129",
@@ -450,6 +450,26 @@
                 "itemStyle": "none"
             },
             {
+                "itemName": "Набір сережек(id1157)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "139",
+                "quantity": 1,
+                "itemId": "1157",
+                "itemDataTitle": "Набір сережек",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor1157.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Набір сережек(id1158)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "139",
+                "quantity": 1,
+                "itemId": "1158",
+                "itemDataTitle": "Набір сережек",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/nabor1158.jpg",
+                "itemStyle": "none"
+            },
+            {
                 "itemName": "Набір сережек(id1115)",
                 "itemSalePrice": "499",
                 "itemCurrentPrice": "349",
@@ -631,7 +651,7 @@
             {
                 "itemName": "Жіноча підвіска(id1325)",
                 "itemSalePrice": "499",
-                "itemCurrentPrice": "349",
+                "itemCurrentPrice": "299",
                 "quantity": 1,
                 "itemId": "1325",
                 "itemDataTitle": "Ювелірний набір",
@@ -910,6 +930,160 @@
         "id": "WomenBraclet",
         "items": [
             {
+                "itemName": "Жіночий браслет(id1371)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1371",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1371.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1372)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "139",
+                "quantity": 1,
+                "itemId": "1372",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1372.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1373)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "149",
+                "quantity": 1,
+                "itemId": "1373",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1373.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1374)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "129",
+                "quantity": 1,
+                "itemId": "1374",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1374.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1375)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "149",
+                "quantity": 1,
+                "itemId": "1375",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1375.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1376)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "169",
+                "quantity": 1,
+                "itemId": "1376",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1376.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1377)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "139",
+                "quantity": 1,
+                "itemId": "1377",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1377.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1378)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "229",
+                "quantity": 1,
+                "itemId": "1378",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1378.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1379)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "139",
+                "quantity": 1,
+                "itemId": "1379",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1379.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1380)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1380",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1380.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1381)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "129",
+                "quantity": 1,
+                "itemId": "1381",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1381.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1382)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "249",
+                "quantity": 1,
+                "itemId": "1382",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1382.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1383)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "149",
+                "quantity": 1,
+                "itemId": "1383",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1383.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1384)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "129",
+                "quantity": 1,
+                "itemId": "1384",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1384.jpg",
+                "itemStyle": "none"
+            },
+            {
                 "itemName": "Жіночий браслет(id1061)",
                 "itemSalePrice": "699",
                 "itemCurrentPrice": "249",
@@ -918,6 +1092,34 @@
                 "itemDataTitle": "Жіночий браслет",
                 "sections": "WomenBraclet",
                 "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b4silver.jpg",
+                "itemStyle": "none"
+            }
+        ]
+    },
+    "MenBraclet": {
+        "name": "Чоловічий браслет",
+        "id": "MenBraclet",
+        "items": [
+            {
+                "itemName": "Жіночий браслет(id1385)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1385",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1385.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет(id1386)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1386",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1386.jpg",
                 "itemStyle": "none"
             }
         ]
