@@ -1093,6 +1093,28 @@
                 "sections": "WomenBraclet",
                 "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b4silver.jpg",
                 "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет BW28 (id1398)",
+                "itemSalePrice": "499",
+                "itemCurrentPrice": "249",
+                "quantity": 1,
+                "itemId": "1398",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/bw1398.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет BW29 (id1399)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "149",
+                "quantity": 1,
+                "itemId": "1399",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/bw1399.jpg",
+                "itemStyle": "none"
             }
         ]
     },
@@ -1131,6 +1153,72 @@
                 "itemDataTitle": "Чоловічий браслет",
                 "sections": "MenBraclet",
                 "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1386.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Чоловічий браслет BM22 (id1392)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1392",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/bm1392.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Чоловічий браслет BM23 (id1393)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1393",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/bm1393.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Чоловічий браслет BM24 (id1394)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1394",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/bm1394.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Чоловічий браслет BM25 (id1395)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1395",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/bm1395.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Чоловічий браслет BM26 (id1396)",
+                "itemSalePrice": "299",
+                "itemCurrentPrice": "149",
+                "quantity": 1,
+                "itemId": "1396",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/bm1396.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Чоловічий браслет BM25 (id1397)",
+                "itemSalePrice": "499",
+                "itemCurrentPrice": "249",
+                "quantity": 1,
+                "itemId": "1397",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/bm1397.jpg",
                 "itemStyle": "none"
             }
         ]
