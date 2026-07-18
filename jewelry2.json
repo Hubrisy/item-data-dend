@@ -472,16 +472,6 @@
                 "itemStyle": "none"
             },
             {
-                "itemName": "Набір сережек SG37 (id1157)",
-                "itemSalePrice": "299",
-                "itemCurrentPrice": "139",
-                "quantity": 1,
-                "itemId": "1157",
-                "itemDataTitle": "Набір сережек",
-                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/sg37.jpg",
-                "itemStyle": "none"
-            },
-            {
                 "itemName": "Набір сережек SG38 (id1158)",
                 "itemSalePrice": "299",
                 "itemCurrentPrice": "139",
@@ -1198,17 +1188,6 @@
                 "itemDataTitle": "Чоловічий браслет",
                 "sections": "MenBraclet",
                 "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1385.jpg",
-                "itemStyle": "none"
-            },
-            {
-                "itemName": "Чоловічий браслет BM20 (id1386)",
-                "itemSalePrice": "399",
-                "itemCurrentPrice": "199",
-                "quantity": 1,
-                "itemId": "1386",
-                "itemDataTitle": "Чоловічий браслет",
-                "sections": "MenBraclet",
-                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/b1386.jpg",
                 "itemStyle": "none"
             },
             {
