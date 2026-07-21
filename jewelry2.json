@@ -1329,6 +1329,16 @@
         "id": "MenJWSet",
         "items": [
             {
+                "itemName": "Чоловіча підвіска хрест(id1252)",
+                "itemSalePrice": "549",
+                "itemCurrentPrice": "329",
+                "quantity": 1,
+                "itemId": "1252",
+                "itemDataTitle": "Чоловіча підвіска",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1252.jpg",
+                "itemStyle": "none"
+            },
+            {
                 "itemName": "Чоловіча підвіска хрест(id1327)",
                 "itemSalePrice": "999",
                 "itemCurrentPrice": "699",
