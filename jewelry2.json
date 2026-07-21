@@ -976,6 +976,61 @@
         "id": "WomenBraclet",
         "items": [
             {
+                "itemName": "Жіночий браслет BW31 (id1402)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1402",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1402.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет BW32 (id1403)",
+                "itemSalePrice": "499",
+                "itemCurrentPrice": "299",
+                "quantity": 1,
+                "itemId": "1403",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1403.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет BW33 (id1404)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1404",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1404.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет BW34 (id1405)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1405",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1405.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Жіночий браслет BW37 (id1408)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1408",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1408.jpg",
+                "itemStyle": "none"
+            },
+            {
                 "itemName": "Жіночий браслет BW5 (id1371)",
                 "itemSalePrice": "399",
                 "itemCurrentPrice": "199",
@@ -1168,6 +1223,17 @@
         "name": "Чоловічий браслет",
         "id": "MenBraclet",
         "items": [
+            {
+                "itemName": "Чоловічий браслет BM36 (id1407)",
+                "itemSalePrice": "499",
+                "itemCurrentPrice": "299",
+                "quantity": 1,
+                "itemId": "1407",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1407.jpg",
+                "itemStyle": "none"
+            },
             {
                 "itemName": "Чоловічий браслет BM21 (id1387)",
                 "itemSalePrice": "499",
