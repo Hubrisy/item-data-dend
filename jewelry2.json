@@ -1224,6 +1224,72 @@
         "id": "MenBraclet",
         "items": [
             {
+                "itemName": "Чоловічий браслет BM38 (id1410)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "179",
+                "quantity": 1,
+                "itemId": "1410",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1410.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Чоловічий браслет BM39 (id1411)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "179",
+                "quantity": 1,
+                "itemId": "1411",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1411.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Чоловічий браслет BM40 (id1412)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "179",
+                "quantity": 1,
+                "itemId": "1412",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1412.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Чоловічий браслет BM41 (id1413)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "179",
+                "quantity": 1,
+                "itemId": "1413",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1413.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Чоловічий браслет BM42 (id1414)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "179",
+                "quantity": 1,
+                "itemId": "1414",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1414.jpg",
+                "itemStyle": "none"
+            },
+            {
+                "itemName": "Чоловічий браслет BM43 (id1415)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1415",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1415.jpg",
+                "itemStyle": "none"
+            },
+            {
                 "itemName": "Чоловічий браслет BM36 (id1407)",
                 "itemSalePrice": "499",
                 "itemCurrentPrice": "299",
