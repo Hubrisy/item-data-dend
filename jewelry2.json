@@ -134,50 +134,6 @@
                 "itemLink": "https://jewerly7.dinowaw.site/",
                 "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw928.jpg",
                 "itemStyle": "block"
-            },
-            {
-                "itemName": "Набір прикрас(id956)",
-                "itemSalePrice": "799",
-                "itemCurrentPrice": "389",
-                "quantity": 1,
-                "itemId": "956",
-                "itemDataTitle": "Набір прикрас",
-                "itemLink": "https://ornaments4.dinowaw.site/",
-                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw956.jpg",
-                "itemStyle": "block"
-            },
-            {
-                "itemName": "Набір прикрас(id957)",
-                "itemSalePrice": "699",
-                "itemCurrentPrice": "349",
-                "quantity": 1,
-                "itemId": "957",
-                "itemDataTitle": "Набір прикрас",
-                "itemLink": "https://ornaments2.dinowaw.site/",
-                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw957.jpg",
-                "itemStyle": "block"
-            },
-            {
-                "itemName": "Набір прикрас(id960)",
-                "itemSalePrice": "399",
-                "itemCurrentPrice": "199",
-                "quantity": 1,
-                "itemId": "960",
-                "itemDataTitle": "Набір прикрас",
-                "itemLink": "https://ornaments6.dinowaw.site/",
-                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw960.jpg",
-                "itemStyle": "block"
-            },
-            {
-                "itemName": "Набір прикрас(id962)",
-                "itemSalePrice": "699",
-                "itemCurrentPrice": "299",
-                "quantity": 1,
-                "itemId": "962",
-                "itemDataTitle": "Набір прикрас",
-                "itemLink": "https://ornaments3.dinowaw.site/",
-                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw962.jpg",
-                "itemStyle": "block"
             }
         ]
     },
@@ -956,6 +912,50 @@
                 "itemDataTitle": "Ювелірний набір",
                 "itemLink": "https://accessories3.dinowaw.site/",
                 "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw998.jpg",
+                "itemStyle": "block"
+            },
+            {
+                "itemName": "Набір прикрас(id956)",
+                "itemSalePrice": "799",
+                "itemCurrentPrice": "389",
+                "quantity": 1,
+                "itemId": "956",
+                "itemDataTitle": "Набір прикрас",
+                "itemLink": "https://ornaments4.dinowaw.site/",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw956.jpg",
+                "itemStyle": "block"
+            },
+            {
+                "itemName": "Набір прикрас(id957)",
+                "itemSalePrice": "699",
+                "itemCurrentPrice": "349",
+                "quantity": 1,
+                "itemId": "957",
+                "itemDataTitle": "Набір прикрас",
+                "itemLink": "https://ornaments2.dinowaw.site/",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw957.jpg",
+                "itemStyle": "block"
+            },
+            {
+                "itemName": "Набір прикрас(id960)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "960",
+                "itemDataTitle": "Набір прикрас",
+                "itemLink": "https://ornaments6.dinowaw.site/",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw960.jpg",
+                "itemStyle": "block"
+            },
+            {
+                "itemName": "Набір прикрас(id962)",
+                "itemSalePrice": "699",
+                "itemCurrentPrice": "299",
+                "quantity": 1,
+                "itemId": "962",
+                "itemDataTitle": "Набір прикрас",
+                "itemLink": "https://ornaments3.dinowaw.site/",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw962.jpg",
                 "itemStyle": "block"
             }
         ]
