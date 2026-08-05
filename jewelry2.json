@@ -1404,6 +1404,18 @@
                 "topSales": false
             },
             {
+                "itemName": "Чоловічий браслет BM20 (id1386)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1386",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1386.jpg",
+                "itemStyle": "none",
+                "topSales": true
+            },
+            {
                 "itemName": "Чоловічий браслет BM21 (id1387)",
                 "itemSalePrice": "499",
                 "itemCurrentPrice": "299",
