@@ -777,6 +777,28 @@
                 "topSales": false
             },
             {
+                "itemName": "Жіноча підвіска #225 (id1463)",
+                "itemSalePrice": "321",
+                "itemCurrentPrice": "229",
+                "quantity": 1,
+                "itemId": "1463",
+                "itemDataTitle": "Ювелірний набір",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1463.jpg",
+                "itemStyle": "none",
+                "topSales": false
+            },
+            {
+                "itemName": "Жіноча підвіска #226 (id1464)",
+                "itemSalePrice": "349",
+                "itemCurrentPrice": "249",
+                "quantity": 1,
+                "itemId": "1464",
+                "itemDataTitle": "Ювелірний набір",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1464.jpg",
+                "itemStyle": "none",
+                "topSales": false
+            },
+            {
                 "itemName": "Жіноча підвіска(id1278)",
                 "itemSalePrice": "399",
                 "itemCurrentPrice": "199",
@@ -1415,6 +1437,66 @@
                 "itemDataTitle": "Жіноча каблучка",
                 "sections": "WomenRings",
                 "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1433.jpg",
+                "itemStyle": "none",
+                "topSales": false
+            },
+            {
+                "itemName": "Жіноче Кільце #KW26 (id1465)",
+                "itemSalePrice": "279",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1465",
+                "itemDataTitle": "Жіноче Кільце",
+                "sections": "WomenRings",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1465.jpg",
+                "itemStyle": "none",
+                "topSales": false
+            },
+            {
+                "itemName": "Жіноче Кільце #KW27 (id1466)",
+                "itemSalePrice": "279",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1466",
+                "itemDataTitle": "Жіноче Кільце",
+                "sections": "WomenRings",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1466.jpg",
+                "itemStyle": "none",
+                "topSales": false
+            },
+            {
+                "itemName": "Жіноче Кільце #KW28 (id1467)",
+                "itemSalePrice": "279",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1467",
+                "itemDataTitle": "Жіноче Кільце",
+                "sections": "WomenRings",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1467.jpg",
+                "itemStyle": "none",
+                "topSales": false
+            },
+            {
+                "itemName": "Жіноче Кільце #KW29 (id1468)",
+                "itemSalePrice": "279",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1468",
+                "itemDataTitle": "Жіноче Кільце",
+                "sections": "WomenRings",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1468.jpg",
+                "itemStyle": "none",
+                "topSales": false
+            },
+            {
+                "itemName": "Жіноче Кільце #KW30 (id1469)",
+                "itemSalePrice": "279",
+                "itemCurrentPrice": "199",
+                "quantity": 1,
+                "itemId": "1469",
+                "itemDataTitle": "Жіноче Кільце",
+                "sections": "WomenRings",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1469.jpg",
                 "itemStyle": "none",
                 "topSales": false
             }
