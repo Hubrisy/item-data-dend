@@ -2154,6 +2154,18 @@
         "id": "MenBraclet",
         "items": [
             {
+                "itemName": "Чоловічий браслет BM35 (id1406)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "249",
+                "quantity": 1,
+                "itemId": "1406",
+                "itemDataTitle": "Чоловічий браслет",
+                "sections": "MenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1406.jpg",
+                "itemStyle": "none",
+                "topSales": true
+            },
+            {
                 "itemName": "Чоловічий браслет BM38 (id1410)",
                 "itemSalePrice": "399",
                 "itemCurrentPrice": "179",
