@@ -66,7 +66,7 @@
             {
                 "itemName": "Ювелірний набір(id1332)",
                 "itemSalePrice": "699",
-                "itemCurrentPrice": "369",
+                "itemCurrentPrice": "249",
                 "quantity": 1,
                 "itemId": "1332",
                 "itemDataTitle": "Ювелірний набір",
@@ -102,7 +102,7 @@
             {
                 "itemName": "Ювелірний набір(id1318)",
                 "itemSalePrice": "699",
-                "itemCurrentPrice": "369",
+                "itemCurrentPrice": "249",
                 "quantity": 1,
                 "itemId": "1318",
                 "itemDataTitle": "Ювелірний набір",
@@ -1583,7 +1583,7 @@
             {
                 "itemName": "Жіноча підвіска(id1335)",
                 "itemSalePrice": "499",
-                "itemCurrentPrice": "299",
+                "itemCurrentPrice": "199",
                 "quantity": 1,
                 "itemId": "1335",
                 "itemDataTitle": "Ювелірний набір",
@@ -1595,7 +1595,7 @@
             {
                 "itemName": "Жіноча підвіска(id1336)",
                 "itemSalePrice": "499",
-                "itemCurrentPrice": "299",
+                "itemCurrentPrice": "199",
                 "quantity": 1,
                 "itemId": "1336",
                 "itemDataTitle": "Ювелірний набір",
@@ -1607,7 +1607,7 @@
             {
                 "itemName": "Жіноча підвіска(id1338)",
                 "itemSalePrice": "499",
-                "itemCurrentPrice": "299",
+                "itemCurrentPrice": "199",
                 "quantity": 1,
                 "itemId": "1338",
                 "itemDataTitle": "Ювелірний набір",
@@ -1642,8 +1642,8 @@
             },
             {
                 "itemName": "Жіноча підвіска(id1326)",
-                "itemSalePrice": "499",
-                "itemCurrentPrice": "299",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "199",
                 "quantity": 1,
                 "itemId": "1326",
                 "itemDataTitle": "Ювелірний набір",
@@ -1703,7 +1703,7 @@
             {
                 "itemName": "Жіноча підвіска(id1304)",
                 "itemSalePrice": "599",
-                "itemCurrentPrice": "369",
+                "itemCurrentPrice": "249",
                 "quantity": 1,
                 "itemId": "1304",
                 "itemDataTitle": "Ювелірний набір",
