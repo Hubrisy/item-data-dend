@@ -62,54 +62,6 @@
     "id": "Waistcoats",
     "items": [
       {
-        "itemName": "Жилетка батали 62 розмір Сіра(id1176)",
-        "itemSalePrice": "1539",
-        "itemCurrentPrice": "1099",
-        "quantity": 1,
-        "itemId": "1176",
-        "itemDataTitle": "Жилетка батали 62 розмір",
-        "sections": "Waistcoats",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/chuni2026/c1176g.jpg",
-        "itemStyle": "none",
-        "topSales": false
-      },
-      {
-        "itemName": "Жилетка батали 62 розмір Коричнева(id1176)",
-        "itemSalePrice": "1539",
-        "itemCurrentPrice": "1099",
-        "quantity": 1,
-        "itemId": "1176",
-        "itemDataTitle": "Жилетка батали 62 розмір",
-        "sections": "Waistcoats",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/chuni2026/c1176br.jpg",
-        "itemStyle": "none",
-        "topSales": false
-      },
-      {
-        "itemName": "Жилетка батали 62 розмір Орнамент(id1175)",
-        "itemSalePrice": "1539",
-        "itemCurrentPrice": "1099",
-        "quantity": 1,
-        "itemId": "1175",
-        "itemDataTitle": "Жилетка батали 62 розмір",
-        "sections": "Waistcoats",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/chuni2026/c1175o.jpg",
-        "itemStyle": "none",
-        "topSales": false
-      },
-      {
-        "itemName": "Жилетка батали 62 розмір Темні олені(id1175)",
-        "itemSalePrice": "1539",
-        "itemCurrentPrice": "1099",
-        "quantity": 1,
-        "itemId": "1175",
-        "itemDataTitle": "Жилетка батали 62 розмір",
-        "sections": "Waistcoats",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/chuni2026/c1175to.jpg",
-        "itemStyle": "none",
-        "topSales": false
-      },
-      {
         "itemName": "Жилетка подовжена без комірця на ґудзиках Орнамент(id1174)",
         "itemSalePrice": "1469",
         "itemCurrentPrice": "1049",
