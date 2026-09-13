@@ -1,0 +1,422 @@
+{
+  "Hats": {
+    "name": "Шапки",
+    "id": "Hats",
+    "items": [
+      {
+        "itemName": "Чоловіча шапка Чорна(id1534)",
+        "itemSalePrice": "279",
+        "itemCurrentPrice": "199",
+        "quantity": 1,
+        "itemId": "1534",
+        "itemDataTitle": "Чоловіча шапка",
+        "sections": "Hats",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1534b.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Чоловіча шапка Олива(id1534)",
+        "itemSalePrice": "279",
+        "itemCurrentPrice": "199",
+        "quantity": 1,
+        "itemId": "1534",
+        "itemDataTitle": "Чоловіча шапка",
+        "sections": "Hats",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1534g.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Чоловіча шапка Коричнева(id1534)",
+        "itemSalePrice": "279",
+        "itemCurrentPrice": "199",
+        "quantity": 1,
+        "itemId": "1534",
+        "itemDataTitle": "Чоловіча шапка",
+        "sections": "Hats",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1534or.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Чоловіча шапка Камуфляж темний(id1534)",
+        "itemSalePrice": "279",
+        "itemCurrentPrice": "199",
+        "quantity": 1,
+        "itemId": "1534",
+        "itemDataTitle": "Чоловіча шапка",
+        "sections": "Hats",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1534kam.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Чоловіча шапка Камуфляж світлий(id1534)",
+        "itemSalePrice": "279",
+        "itemCurrentPrice": "199",
+        "quantity": 1,
+        "itemId": "1534",
+        "itemDataTitle": "Чоловіча шапка",
+        "sections": "Hats",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1534kamjg.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      }
+    ]
+  },
+  "Buffs": {
+    "name": "Бафи",
+    "id": "Buffs",
+    "items": [
+      {
+        "itemName": "Баф чоловічий Чорний(id1535)",
+        "itemSalePrice": "279",
+        "itemCurrentPrice": "199",
+        "quantity": 1,
+        "itemId": "1535",
+        "itemDataTitle": "Баф чоловічий",
+        "sections": "Buffs",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1535b.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Баф чоловічий Олива(id1535)",
+        "itemSalePrice": "279",
+        "itemCurrentPrice": "199",
+        "quantity": 1,
+        "itemId": "1535",
+        "itemDataTitle": "Баф чоловічий",
+        "sections": "Buffs",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1535g.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Баф чоловічий Сірий(id1535)",
+        "itemSalePrice": "279",
+        "itemCurrentPrice": "199",
+        "quantity": 1,
+        "itemId": "1535",
+        "itemDataTitle": "Баф чоловічий",
+        "sections": "Buffs",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1535gr.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Баф чоловічий Коричневий(id1535)",
+        "itemSalePrice": "279",
+        "itemCurrentPrice": "199",
+        "quantity": 1,
+        "itemId": "1535",
+        "itemDataTitle": "Баф чоловічий",
+        "sections": "Buffs",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1535or.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Баф чоловічий Камуфляж темний(id1535)",
+        "itemSalePrice": "279",
+        "itemCurrentPrice": "199",
+        "quantity": 1,
+        "itemId": "1535",
+        "itemDataTitle": "Баф чоловічий",
+        "sections": "Buffs",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1535kam.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Баф чоловічий Камуфляж світлий(id1535)",
+        "itemSalePrice": "279",
+        "itemCurrentPrice": "199",
+        "quantity": 1,
+        "itemId": "1535",
+        "itemDataTitle": "Баф чоловічий",
+        "sections": "Buffs",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1535kamjg.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      }
+    ]
+  },
+  "Fleeces": {
+    "name": "Фліски",
+    "id": "Fleeces",
+    "items": [
+      {
+        "itemName": "Флісова кофта Медіум Плюс Чорна(id1536)",
+        "itemSalePrice": "2226",
+        "itemCurrentPrice": "1590",
+        "quantity": 1,
+        "itemId": "1536",
+        "itemDataTitle": "Флісова кофта Медіум Плюс",
+        "sections": "Fleeces",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1536b.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Флісова кофта Медіум Плюс Сіра(id1536)",
+        "itemSalePrice": "2226",
+        "itemCurrentPrice": "1590",
+        "quantity": 1,
+        "itemId": "1536",
+        "itemDataTitle": "Флісова кофта Медіум Плюс",
+        "sections": "Fleeces",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1536gr.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Флісова кофта Медіум Плюс Олива(id1536)",
+        "itemSalePrice": "2226",
+        "itemCurrentPrice": "1590",
+        "quantity": 1,
+        "itemId": "1536",
+        "itemDataTitle": "Флісова кофта Медіум Плюс",
+        "sections": "Fleeces",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1536g.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Флісова кофта Медіум Плюс Коричнева(id1536)",
+        "itemSalePrice": "2226",
+        "itemCurrentPrice": "1590",
+        "quantity": 1,
+        "itemId": "1536",
+        "itemDataTitle": "Флісова кофта Медіум Плюс",
+        "sections": "Fleeces",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1536or.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Флісові чоловічі штани Чорні(id1537)",
+        "itemSalePrice": "1260",
+        "itemCurrentPrice": "900",
+        "quantity": 1,
+        "itemId": "1537",
+        "itemDataTitle": "Флісові чоловічі штани",
+        "sections": "Fleeces",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1537b.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Флісові чоловічі штани Олива(id1537)",
+        "itemSalePrice": "1260",
+        "itemCurrentPrice": "900",
+        "quantity": 1,
+        "itemId": "1537",
+        "itemDataTitle": "Флісові чоловічі штани",
+        "sections": "Fleeces",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1537g.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Флісові чоловічі штани Світла олива(id1537)",
+        "itemSalePrice": "1260",
+        "itemCurrentPrice": "900",
+        "quantity": 1,
+        "itemId": "1537",
+        "itemDataTitle": "Флісові чоловічі штани",
+        "sections": "Fleeces",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1537glight.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Флісові чоловічі штани Сірі(id1537)",
+        "itemSalePrice": "1260",
+        "itemCurrentPrice": "900",
+        "quantity": 1,
+        "itemId": "1537",
+        "itemDataTitle": "Флісові чоловічі штани",
+        "sections": "Fleeces",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1537gr.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Флісові чоловічі штани Коричневі(id1537)",
+        "itemSalePrice": "1260",
+        "itemCurrentPrice": "900",
+        "quantity": 1,
+        "itemId": "1537",
+        "itemDataTitle": "Флісові чоловічі штани",
+        "sections": "Fleeces",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1537or.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      }
+    ]
+  },
+  "Suits": {
+    "name": "Костюми",
+    "id": "Suits",
+    "items": [
+      {
+        "itemName": "Костюм флісовий Plus.Plus Чорний(id1538)",
+        "itemSalePrice": "3500",
+        "itemCurrentPrice": "2500",
+        "quantity": 1,
+        "itemId": "1538",
+        "itemDataTitle": "Костюм флісовий Plus.Plus",
+        "sections": "Suits",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1538b.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Костюм флісовий Plus.Plus Олива(id1538)",
+        "itemSalePrice": "3500",
+        "itemCurrentPrice": "2500",
+        "quantity": 1,
+        "itemId": "1538",
+        "itemDataTitle": "Костюм флісовий Plus.Plus",
+        "sections": "Suits",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1538g.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Костюм флісовий Plus.Plus Світла олива(id1538)",
+        "itemSalePrice": "3500",
+        "itemCurrentPrice": "2500",
+        "quantity": 1,
+        "itemId": "1538",
+        "itemDataTitle": "Костюм флісовий Plus.Plus",
+        "sections": "Suits",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1538glight.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Костюм флісовий Plus.Plus Сірий(id1538)",
+        "itemSalePrice": "3500",
+        "itemCurrentPrice": "2500",
+        "quantity": 1,
+        "itemId": "1538",
+        "itemDataTitle": "Костюм флісовий Plus.Plus",
+        "sections": "Suits",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1538gr.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Костюм флісовий Plus.Plus Коричневий(id1538)",
+        "itemSalePrice": "3500",
+        "itemCurrentPrice": "2500",
+        "quantity": 1,
+        "itemId": "1538",
+        "itemDataTitle": "Костюм флісовий Plus.Plus",
+        "sections": "Suits",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1538or.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Костюм флісовий Medium Чорний(id1539)",
+        "itemSalePrice": "2800",
+        "itemCurrentPrice": "2000",
+        "quantity": 1,
+        "itemId": "1539",
+        "itemDataTitle": "Костюм флісовий Medium",
+        "sections": "Suits",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1539b.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Костюм флісовий Medium Олива(id1539)",
+        "itemSalePrice": "2800",
+        "itemCurrentPrice": "2000",
+        "quantity": 1,
+        "itemId": "1539",
+        "itemDataTitle": "Костюм флісовий Medium",
+        "sections": "Suits",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1539g.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Костюм флісовий Medium Світла олива(id1539)",
+        "itemSalePrice": "2800",
+        "itemCurrentPrice": "2000",
+        "quantity": 1,
+        "itemId": "1539",
+        "itemDataTitle": "Костюм флісовий Medium",
+        "sections": "Suits",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1539glight.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Костюм флісовий Medium Коричневий(id1539)",
+        "itemSalePrice": "2800",
+        "itemCurrentPrice": "2000",
+        "quantity": 1,
+        "itemId": "1539",
+        "itemDataTitle": "Костюм флісовий Medium",
+        "sections": "Suits",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1539o.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Штани + кофта Реглан Чорний(id1540)",
+        "itemSalePrice": "2660",
+        "itemCurrentPrice": "1900",
+        "quantity": 1,
+        "itemId": "1540",
+        "itemDataTitle": "Штани + кофта Реглан",
+        "sections": "Suits",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1540b.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Штани + кофта Реглан Олива(id1540)",
+        "itemSalePrice": "2660",
+        "itemCurrentPrice": "1900",
+        "quantity": 1,
+        "itemId": "1540",
+        "itemDataTitle": "Штани + кофта Реглан",
+        "sections": "Suits",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1540g.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Штани + кофта Реглан Світла олива(id1540)",
+        "itemSalePrice": "2660",
+        "itemCurrentPrice": "1900",
+        "quantity": 1,
+        "itemId": "1540",
+        "itemDataTitle": "Штани + кофта Реглан",
+        "sections": "Suits",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1540glight.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Штани + кофта Реглан Коричневий(id1540)",
+        "itemSalePrice": "2660",
+        "itemCurrentPrice": "1900",
+        "quantity": 1,
+        "itemId": "1540",
+        "itemDataTitle": "Штани + кофта Реглан",
+        "sections": "Suits",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/fliski2026/f1540o.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      }
+    ]
+  }
+}
