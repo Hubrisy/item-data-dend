@@ -547,6 +547,29 @@
         "id": "WomenNecklace",
         "items": [
             {
+                "itemName": "Жіноча Підвіска V #259 (id1551)",
+                "itemSalePrice": "599",
+                "itemCurrentPrice": "24",
+                "quantity": 1,
+                "itemId": "1551",
+                "itemDataTitle": "Ювелірний набір",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1551.jpg",
+                "itemStyle": "none",
+                "topSales": false
+            },
+            {
+                "itemName": "Богемний кулон #257 (id1529)",
+                "itemSalePrice": "599",
+                "itemCurrentPrice": "299",
+                "quantity": 1,
+                "itemId": "1529",
+                "itemDataTitle": "Ювелірний набір",
+                "itemLink": "Https://bauble10.dinowaw.site/",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1529.jpg",
+                "itemStyle": "block",
+                "topSales": false
+            },
+            {
                 "itemName": "Богемний кулон #257 (id1529)",
                 "itemSalePrice": "599",
                 "itemCurrentPrice": "299",
@@ -1202,6 +1225,18 @@
         "name": "Жіночий браслет",
         "id": "WomenBraclet",
         "items": [
+            {
+                "itemName": "Жіночий браслет BW45 (id1552)",
+                "itemSalePrice": "399",
+                "itemCurrentPrice": "149",
+                "quantity": 1,
+                "itemId": "1552",
+                "itemDataTitle": "Жіночий браслет",
+                "sections": "WomenBraclet",
+                "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1552.jpg",
+                "itemStyle": "none",
+                "topSales": false
+            },
             {
                 "itemName": "Жіночий браслет BW31 (id1402)",
                 "itemSalePrice": "399",
