@@ -40,54 +40,6 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1275)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "499",
-        "quantity": 1,
-        "itemId": "1275",
-        "itemDataTitle": "Ювелірний набір",
-        "itemLink": "https://gems8.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1275p.jpg",
-        "itemStyle": "block",
-        "topSales": false
-      },
-      {
-        "itemName": "Жіноча підвіска(id1275)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "499",
-        "quantity": 1,
-        "itemId": "1275",
-        "itemDataTitle": "Ювелірний набір",
-        "itemLink": "https://gems8.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1275y.jpg",
-        "itemStyle": "block",
-        "topSales": false
-      },
-      {
-        "itemName": "Жіноча підвіска(id1262)",
-        "itemSalePrice": "599",
-        "itemCurrentPrice": "399",
-        "quantity": 1,
-        "itemId": "1262",
-        "itemDataTitle": "Ювелірний набір",
-        "itemLink": "https://gems2.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1262.jpg",
-        "itemStyle": "block",
-        "topSales": false
-      },
-      {
-        "itemName": "Жіноча підвіска(id1249)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "499",
-        "quantity": 1,
-        "itemId": "1249",
-        "itemDataTitle": "Ювелірний набір",
-        "itemLink": "https://adornments1.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1249.jpg",
-        "itemStyle": "block",
-        "topSales": true
-      },
-      {
         "itemName": "Ювелірний набір(id1332)",
         "itemSalePrice": "699",
         "itemCurrentPrice": "249",
@@ -156,6 +108,90 @@
         "itemDataTitle": "Ювелірний набір",
         "itemLink": "https://jewerly7.dinowaw.site/",
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw928.jpg",
+        "itemStyle": "block",
+        "topSales": true
+      },
+      {
+        "itemName": "Ювелірний набір(id933)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "329",
+        "quantity": 1,
+        "itemId": "933",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://jewerly12.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw933.jpg",
+        "itemStyle": "block",
+        "topSales": false
+      },
+      {
+        "itemName": "Ювелірний набір(id993)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "349",
+        "quantity": 1,
+        "itemId": "993",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://ornaments1.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw993.jpg",
+        "itemStyle": "block",
+        "topSales": false
+      },
+      {
+        "itemName": "Ювелірний набір(id998)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "399",
+        "quantity": 1,
+        "itemId": "998",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://accessories3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw998.jpg",
+        "itemStyle": "block",
+        "topSales": false
+      },
+      {
+        "itemName": "Набір прикрас(id956)",
+        "itemSalePrice": "799",
+        "itemCurrentPrice": "389",
+        "quantity": 1,
+        "itemId": "956",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://ornaments4.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw956.jpg",
+        "itemStyle": "block",
+        "topSales": false
+      },
+      {
+        "itemName": "Набір прикрас(id957)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "349",
+        "quantity": 1,
+        "itemId": "957",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://ornaments2.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw957.jpg",
+        "itemStyle": "block",
+        "topSales": true
+      },
+      {
+        "itemName": "Набір прикрас(id960)",
+        "itemSalePrice": "399",
+        "itemCurrentPrice": "199",
+        "quantity": 1,
+        "itemId": "960",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://ornaments6.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw960.jpg",
+        "itemStyle": "block",
+        "topSales": false
+      },
+      {
+        "itemName": "Набір прикрас(id989)",
+        "itemSalePrice": "699",
+        "itemCurrentPrice": "299",
+        "quantity": 1,
+        "itemId": "989",
+        "itemDataTitle": "Набір прикрас",
+        "itemLink": "https://ornaments3.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw962.jpg",
         "itemStyle": "block",
         "topSales": true
       }
@@ -1352,88 +1388,63 @@
         "topSales": true
       },
       {
-        "itemName": "Ювелірний набір(id933)",
+        "itemName": "Жіноча підвіска(id1275)",
         "itemSalePrice": "699",
-        "itemCurrentPrice": "329",
+        "itemCurrentPrice": "499",
         "quantity": 1,
-        "itemId": "933",
+        "itemId": "1275",
         "itemDataTitle": "Ювелірний набір",
-        "itemLink": "https://jewerly12.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw933.jpg",
+        "itemLink": "https://gems8.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1275p.jpg",
         "itemStyle": "block",
         "topSales": false
       },
       {
-        "itemName": "Ювелірний набір(id993)",
+        "itemName": "Жіноча підвіска(id1275)",
         "itemSalePrice": "699",
-        "itemCurrentPrice": "349",
+        "itemCurrentPrice": "499",
         "quantity": 1,
-        "itemId": "993",
+        "itemId": "1275",
         "itemDataTitle": "Ювелірний набір",
-        "itemLink": "https://ornaments1.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw993.jpg",
+        "itemLink": "https://gems8.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1275y.jpg",
         "itemStyle": "block",
         "topSales": false
       },
       {
-        "itemName": "Ювелірний набір(id998)",
-        "itemSalePrice": "699",
+        "itemName": "Жіноча підвіска(id1262)",
+        "itemSalePrice": "599",
         "itemCurrentPrice": "399",
         "quantity": 1,
-        "itemId": "998",
+        "itemId": "1262",
         "itemDataTitle": "Ювелірний набір",
-        "itemLink": "https://accessories3.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw998.jpg",
+        "itemLink": "https://gems2.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1262.jpg",
         "itemStyle": "block",
         "topSales": false
       },
       {
-        "itemName": "Набір прикрас(id956)",
-        "itemSalePrice": "799",
-        "itemCurrentPrice": "389",
-        "quantity": 1,
-        "itemId": "956",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://ornaments4.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw956.jpg",
-        "itemStyle": "block",
-        "topSales": false
-      },
-      {
-        "itemName": "Набір прикрас(id957)",
+        "itemName": "Жіноча підвіска(id1249)",
         "itemSalePrice": "699",
-        "itemCurrentPrice": "349",
+        "itemCurrentPrice": "499",
         "quantity": 1,
-        "itemId": "957",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://ornaments2.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw957.jpg",
+        "itemId": "1249",
+        "itemDataTitle": "Ювелірний набір",
+        "itemLink": "https://adornments1.dinowaw.site/",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1249.jpg",
         "itemStyle": "block",
         "topSales": true
       },
       {
-        "itemName": "Набір прикрас(id960)",
-        "itemSalePrice": "399",
-        "itemCurrentPrice": "199",
+        "itemName": "Жіноча Підвіска #279 (id1620)",
+        "itemSalePrice": "476",
+        "itemCurrentPrice": "340",
         "quantity": 1,
-        "itemId": "960",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://ornaments6.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw960.jpg",
-        "itemStyle": "block",
+        "itemId": "1620",
+        "itemDataTitle": "Ювелірний набір",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1620.jpg",
+        "itemStyle": "none",
         "topSales": false
-      },
-      {
-        "itemName": "Набір прикрас(id989)",
-        "itemSalePrice": "699",
-        "itemCurrentPrice": "299",
-        "quantity": 1,
-        "itemId": "989",
-        "itemDataTitle": "Набір прикрас",
-        "itemLink": "https://ornaments3.dinowaw.site/",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw962.jpg",
-        "itemStyle": "block",
-        "topSales": true
       }
     ]
   },
@@ -1816,17 +1827,6 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча Підвіска #279 (id1620)",
-        "itemSalePrice": "476",
-        "itemCurrentPrice": "340",
-        "quantity": 1,
-        "itemId": "1620",
-        "itemDataTitle": "Ювелірний набір",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1620.jpg",
-        "itemStyle": "none",
-        "topSales": false
-      },
-      {
         "itemName": "Богемний кулон #256 (id1528)",
         "itemSalePrice": "599",
         "itemCurrentPrice": "299",
@@ -1851,7 +1851,7 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1337)",
+        "itemName": "Кулон(id1337)",
         "itemSalePrice": "599",
         "itemCurrentPrice": "299",
         "quantity": 1,
@@ -1863,7 +1863,7 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1334)",
+        "itemName": "Кулон (id1334)",
         "itemSalePrice": "599",
         "itemCurrentPrice": "299",
         "quantity": 1,
@@ -1875,7 +1875,7 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1304)",
+        "itemName": "Кулон (id1304)",
         "itemSalePrice": "599",
         "itemCurrentPrice": "249",
         "quantity": 1,
@@ -1887,7 +1887,7 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1297)",
+        "itemName": "Кулон (id1297)",
         "itemSalePrice": "499",
         "itemCurrentPrice": "299",
         "quantity": 1,
@@ -1899,7 +1899,7 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1336)",
+        "itemName": "Кулон (id1336)",
         "itemSalePrice": "499",
         "itemCurrentPrice": "199",
         "quantity": 1,
@@ -1911,7 +1911,7 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1338)",
+        "itemName": "Кулон (id1338)",
         "itemSalePrice": "499",
         "itemCurrentPrice": "199",
         "quantity": 1,
@@ -1923,7 +1923,7 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1326)",
+        "itemName": "Кулон (id1326)",
         "itemSalePrice": "399",
         "itemCurrentPrice": "199",
         "quantity": 1,
@@ -1935,7 +1935,7 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1319)",
+        "itemName": "Кулон (id1319)",
         "itemSalePrice": "499",
         "itemCurrentPrice": "299",
         "quantity": 1,
@@ -1947,7 +1947,7 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1325)",
+        "itemName": "Кулон (id1325)",
         "itemSalePrice": "499",
         "itemCurrentPrice": "349",
         "quantity": 1,
@@ -1959,7 +1959,7 @@
         "topSales": true
       },
       {
-        "itemName": "Жіноча підвіска(id1323)",
+        "itemName": "Кулон (id1323)",
         "itemSalePrice": "499",
         "itemCurrentPrice": "299",
         "quantity": 1,
@@ -1971,7 +1971,7 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1299)",
+        "itemName": "Кулон (id1299)",
         "itemSalePrice": "499",
         "itemCurrentPrice": "299",
         "quantity": 1,
@@ -1983,7 +1983,7 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1296)",
+        "itemName": "Кулон (id1296)",
         "itemSalePrice": "499",
         "itemCurrentPrice": "299",
         "quantity": 1,
@@ -1995,7 +1995,7 @@
         "topSales": true
       },
       {
-        "itemName": "Жіноча підвіска(id1295)",
+        "itemName": "Кулон (id1295)",
         "itemSalePrice": "499",
         "itemCurrentPrice": "299",
         "quantity": 1,
@@ -2007,7 +2007,7 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1250)",
+        "itemName": "Кулон (id1250)",
         "itemSalePrice": "499",
         "itemCurrentPrice": "299",
         "quantity": 1,
@@ -2019,7 +2019,7 @@
         "topSales": false
       },
       {
-        "itemName": "Жіноча підвіска(id1257)",
+        "itemName": "Кулон (id1257)",
         "itemSalePrice": "499",
         "itemCurrentPrice": "299",
         "quantity": 1,
