@@ -1771,62 +1771,6 @@
     "id": "Pendants",
     "items": [
       {
-        "itemName": "Кільце з Великой Перлиною K2  (id1063)",
-        "itemSalePrice": "249",
-        "itemCurrentPrice": "149",
-        "quantity": 1,
-        "itemId": "1063",
-        "itemDataTitle": "Жіноче Кільце",
-        "sections": "WomenRings",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1063.jpg",
-        "itemStyle": "none",
-        "topSales": false
-      },
-      {
-        "itemName": "Жіноча Підвіска #275 (id1611)",
-        "itemSalePrice": "238",
-        "itemCurrentPrice": "170",
-        "quantity": 1,
-        "itemId": "1611",
-        "itemDataTitle": "Ювелірний набір",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1611.jpg",
-        "itemStyle": "none",
-        "topSales": false
-      },
-      {
-        "itemName": "Жіноча Підвіска #276 (id1612)",
-        "itemSalePrice": "238",
-        "itemCurrentPrice": "170",
-        "quantity": 1,
-        "itemId": "1612",
-        "itemDataTitle": "Ювелірний набір",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1612.jpg",
-        "itemStyle": "none",
-        "topSales": false
-      },
-      {
-        "itemName": "Жіноча Підвіска #277 (id1613)",
-        "itemSalePrice": "406",
-        "itemCurrentPrice": "290",
-        "quantity": 1,
-        "itemId": "1613",
-        "itemDataTitle": "Ювелірний набір",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1613.jpg",
-        "itemStyle": "none",
-        "topSales": false
-      },
-      {
-        "itemName": "Жіноча Підвіска #278 (id1614)",
-        "itemSalePrice": "392",
-        "itemCurrentPrice": "280",
-        "quantity": 1,
-        "itemId": "1614",
-        "itemDataTitle": "Ювелірний набір",
-        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1614.jpg",
-        "itemStyle": "none",
-        "topSales": false
-      },
-      {
         "itemName": "Богемний кулон #256 (id1528)",
         "itemSalePrice": "599",
         "itemCurrentPrice": "299",
@@ -2072,6 +2016,18 @@
     "name": "Жіночі каблучки",
     "id": "WomenRings",
     "items": [
+      {
+        "itemName": "Кільце з Великой Перлиною K2  (id1063)",
+        "itemSalePrice": "249",
+        "itemCurrentPrice": "149",
+        "quantity": 1,
+        "itemId": "1063",
+        "itemDataTitle": "Жіноче Кільце",
+        "sections": "WomenRings",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1063.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
       {
         "itemName": "Жіноче Кільце #KW1 (id1433)",
         "itemSalePrice": "279",
@@ -3627,6 +3583,50 @@
     "name": "Чоловічі ювелірні набори",
     "id": "MenJWSet",
     "items": [
+      {
+        "itemName": "Жіноча Підвіска #275 (id1611)",
+        "itemSalePrice": "238",
+        "itemCurrentPrice": "170",
+        "quantity": 1,
+        "itemId": "1611",
+        "itemDataTitle": "Ювелірний набір",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1611.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Жіноча Підвіска #276 (id1612)",
+        "itemSalePrice": "238",
+        "itemCurrentPrice": "170",
+        "quantity": 1,
+        "itemId": "1612",
+        "itemDataTitle": "Ювелірний набір",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1612.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Жіноча Підвіска #277 (id1613)",
+        "itemSalePrice": "406",
+        "itemCurrentPrice": "290",
+        "quantity": 1,
+        "itemId": "1613",
+        "itemDataTitle": "Ювелірний набір",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1613.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Жіноча Підвіска #278 (id1614)",
+        "itemSalePrice": "392",
+        "itemCurrentPrice": "280",
+        "quantity": 1,
+        "itemId": "1614",
+        "itemDataTitle": "Ювелірний набір",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1614.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
       {
         "itemName": "Чоловіча підвіска хрест #194 ЗОЛОТО (id1543)",
         "itemSalePrice": "999",
