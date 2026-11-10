@@ -3342,6 +3342,94 @@
         "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1654.jpg",
         "itemStyle": "none",
         "topSales": false
+      },
+      {
+        "itemName": "Крабик для волосся #KR29 (id1657)",
+        "itemSalePrice": "196",
+        "itemCurrentPrice": "140",
+        "quantity": 1,
+        "itemId": "1657",
+        "itemDataTitle": "Крабик для волосся",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1657.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Крабик для волосся #KR30 (id1658)",
+        "itemSalePrice": "139",
+        "itemCurrentPrice": "99",
+        "quantity": 1,
+        "itemId": "1658",
+        "itemDataTitle": "Крабик для волосся",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1658.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Крабик для волосся #KR31 (id1659)",
+        "itemSalePrice": "196",
+        "itemCurrentPrice": "140",
+        "quantity": 1,
+        "itemId": "1659",
+        "itemDataTitle": "Крабик для волосся",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1659.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Крабик для волосся #KR32 (id1660)",
+        "itemSalePrice": "196",
+        "itemCurrentPrice": "140",
+        "quantity": 1,
+        "itemId": "1660",
+        "itemDataTitle": "Крабик для волосся",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1660.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Крабик для волосся #KR33 (id1661)",
+        "itemSalePrice": "196",
+        "itemCurrentPrice": "140",
+        "quantity": 1,
+        "itemId": "1661",
+        "itemDataTitle": "Крабик для волосся",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1661.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Крабик для волосся #KR34 (id1662)",
+        "itemSalePrice": "189",
+        "itemCurrentPrice": "135",
+        "quantity": 1,
+        "itemId": "1662",
+        "itemDataTitle": "Крабик для волосся",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1662.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Крабик для волосся #KR35 (id1663)",
+        "itemSalePrice": "189",
+        "itemCurrentPrice": "135",
+        "quantity": 1,
+        "itemId": "1663",
+        "itemDataTitle": "Крабик для волосся",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1663.jpg",
+        "itemStyle": "none",
+        "topSales": false
+      },
+      {
+        "itemName": "Крабик для волосся 5шт #KR38 (id1664)",
+        "itemSalePrice": "350",
+        "itemCurrentPrice": "250",
+        "quantity": 1,
+        "itemId": "1664",
+        "itemDataTitle": "Крабик для волосся",
+        "itemImg": "https://github.com/Hubrisy/images/raw/main/jewerly/jw1664.jpg",
+        "itemStyle": "none",
+        "topSales": false
       }
     ]
   },
